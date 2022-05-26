@@ -37,12 +37,6 @@ class SearchPage  {
         wait:5000
         await this.searchButton.click();
         //await browser.swipeUp(this.selectEbay[1200]);
-        //await browse.touchUp(170,1200);
-        //this.selectEbay.scroll(170);
-        //browser.scroll(170,1130)
-        //await browser.swipe([this.selectEbay][170]);
-        //this.selectEbay.scrollIntoView();
-
         await this.selectEbay.click();
     }
 } 
