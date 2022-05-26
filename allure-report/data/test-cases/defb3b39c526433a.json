@@ -1,0 +1,62 @@
+{
+  "uid" : "defb3b39c526433a",
+  "name" : "Then The client count the results",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Then The client count the results",
+  "historyId" : "4b4d2e00fa0c0ce37176a5c601062e0f",
+  "time" : {
+    "start" : 1653060052675,
+    "stop" : 1653060052683,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: function uses multiple asynchronous interfaces: callback and promise",
+  "statusTrace" : "Error: function uses multiple asynchronous interfaces: callback and promise\n                to use the callback interface: do not return a promise\n                to use the promise interface: remove the last argument to the function\n                    at Object.run (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\user_code_runner.ts:50:16)\n                    at Object.run (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\step_runner.ts:50:41)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async TestCaseRunner.invokeStep (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:130:12)\n                    at async TestCaseRunner.runStep (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:307:20)\n                    at async C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:210:36\n                    at async TestCaseRunner.aroundTestStep (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:162:28)\n                    at async TestCaseRunner.run (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:191:9)\n                    at async Runtime.runTestCase (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\index.ts:91:20)\n                    at async Runtime.start (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\index.ts:121:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then The client count the results"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "defb3b39c526433a.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}

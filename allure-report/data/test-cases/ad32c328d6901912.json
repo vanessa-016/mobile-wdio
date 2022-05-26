@@ -1,0 +1,60 @@
+{
+  "uid" : "ad32c328d6901912",
+  "name" : "",
+  "fullName" : "The client search in the view page: The client search by \"pilas\" in ebay page.",
+  "historyId" : "dc82a3a67d3d7fe48616765bb3883ac0",
+  "time" : {
+    "start" : 1653527641010,
+    "stop" : 1653527641010,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 5 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad32c328d6901912.json",
+  "parameterValues" : [ "Nexus 5 API 30 11.0-11" ]
+}

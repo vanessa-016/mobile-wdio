@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.ImageButton"
+}

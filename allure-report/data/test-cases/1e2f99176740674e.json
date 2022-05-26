@@ -1,0 +1,297 @@
+{
+  "uid" : "1e2f99176740674e",
+  "name" : "Given The client is in the https://www.ebay.com",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Given The client is in the https://www.ebay.com",
+  "historyId" : "1d1a365babd7400ca20891c58e4ac7b1",
+  "time" : {
+    "start" : 1653492429785,
+    "stop" : 1653492433977,
+    "duration" : 4192
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: browser_1.default.swipeUp is not a function",
+  "statusTrace" : "TypeError: browser_1.default.swipeUp is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:66:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: browser_1.default.swipeUp is not a function",
+    "statusTrace" : "TypeError: browser_1.default.swipeUp is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:66:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492429789,
+        "stop" : 1653492430483,
+        "duration" : 694
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8967608fb6e3a24d",
+        "name" : "Request",
+        "source" : "8967608fb6e3a24d.json",
+        "type" : "application/json",
+        "size" : 107
+      }, {
+        "uid" : "20ed57471187142d",
+        "name" : "Response",
+        "source" : "20ed57471187142d.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00c1-ffff-ffff0000004a/click",
+      "time" : {
+        "start" : 1653492430491,
+        "stop" : 1653492430584,
+        "duration" : 93
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492430584,
+        "stop" : 1653492430753,
+        "duration" : 169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "544b0f774b406527",
+        "name" : "Request",
+        "source" : "544b0f774b406527.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "de5794d4eaa51315",
+        "name" : "Response",
+        "source" : "de5794d4eaa51315.json",
+        "type" : "application/json",
+        "size" : 820
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653492430758,
+        "stop" : 1653492432109,
+        "duration" : 1351
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ef3e6e6532e4d568",
+        "name" : "Request",
+        "source" : "ef3e6e6532e4d568.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "11cabd82abd2f1b5",
+        "name" : "Response",
+        "source" : "11cabd82abd2f1b5.json",
+        "type" : "application/json",
+        "size" : 148
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492432114,
+        "stop" : 1653492432191,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d22b2db150b9558b",
+        "name" : "Request",
+        "source" : "d22b2db150b9558b.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "8cf680d61c32b4ff",
+        "name" : "Response",
+        "source" : "8cf680d61c32b4ff.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00c8-ffff-ffff00000006/clear",
+      "time" : {
+        "start" : 1653492432195,
+        "stop" : 1653492432229,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00c8-ffff-ffff00000006/value",
+      "time" : {
+        "start" : 1653492432236,
+        "stop" : 1653492432906,
+        "duration" : 670
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3391c822774a2872",
+        "name" : "Request",
+        "source" : "3391c822774a2872.json",
+        "type" : "application/json",
+        "size" : 36
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492432906,
+        "stop" : 1653492433852,
+        "duration" : 946
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6221a4f74d6da8b4",
+        "name" : "Request",
+        "source" : "6221a4f74d6da8b4.json",
+        "type" : "application/json",
+        "size" : 214
+      }, {
+        "uid" : "5c63502115855088",
+        "name" : "Response",
+        "source" : "5c63502115855088.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00c8-ffff-ffff00000007/click",
+      "time" : {
+        "start" : 1653492433855,
+        "stop" : 1653492433966,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492433970,
+        "stop" : 1653492433977,
+        "duration" : 7
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: browser_1.default.swipeUp is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:66:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "167552e95240e2e2",
+        "name" : "Request",
+        "source" : "167552e95240e2e2.json",
+        "type" : "application/json",
+        "size" : 96
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 12,
+    "stepsCount" : 10,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given The client is in the https://www.ebay.com"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 4 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e2f99176740674e.json",
+  "parameterValues" : [ "Nexus 4 API 30 11.0-11" ]
+}

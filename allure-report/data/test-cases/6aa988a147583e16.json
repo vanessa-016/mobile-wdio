@@ -1,0 +1,96 @@
+{
+  "uid" : "6aa988a147583e16",
+  "name" : "When The client search for the pilas",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.When The client search for the pilas",
+  "historyId" : "21c9e5aa62cd678da9e0c2a4fe1326ad",
+  "time" : {
+    "start" : 1653327296434,
+    "stop" : 1653327296444,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: searchViewEbay_1.default.inputSearchEbay is not a function",
+  "statusTrace" : "TypeError: searchViewEbay_1.default.inputSearchEbay is not a function\n                    at C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:10:20\n                    at step (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:14:53)\n                    at C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:8:71\n                    at new Promise (<anonymous>)\n                    at __awaiter (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:4:12)\n                    at World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:9:53)\n                    at World.executeAsync (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at World.testFrameworkFnWrapper (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: searchViewEbay_1.default.inputSearchEbay is not a function",
+    "statusTrace" : "TypeError: searchViewEbay_1.default.inputSearchEbay is not a function\n                    at C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:10:20\n                    at step (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:14:53)\n                    at C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:8:71\n                    at new Promise (<anonymous>)\n                    at __awaiter (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:4:12)\n                    at World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:9:53)\n                    at World.executeAsync (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at World.testFrameworkFnWrapper (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653327296439,
+        "stop" : 1653327296444,
+        "duration" : 5
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: searchViewEbay_1.default.inputSearchEbay is not a function\n                    at C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:10:20\n                    at step (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:14:53)\n                    at C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:8:71\n                    at new Promise (<anonymous>)\n                    at __awaiter (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:4:12)\n                    at World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:9:53)\n                    at World.executeAsync (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at World.testFrameworkFnWrapper (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3cb63216195dbcf5",
+        "name" : "Request",
+        "source" : "3cb63216195dbcf5.json",
+        "type" : "application/json",
+        "size" : 88
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When The client search for the pilas"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 5 API 32 12.0-12"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6aa988a147583e16.json",
+  "parameterValues" : [ "Pixel 5 API 32 12.0-12" ]
+}

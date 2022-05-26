@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="The client search in the view page" timestamp="2022-05-25T21:33:50" time="19.605" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="The client search in the view page"/>
+      <property name="capabilities" value="emulator-5554.android.11"/>
+      <property name="featureFile" value=".\features\ebaySearch.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-emulator-5554.android.11.The client search in the view page" name="The client search by pilas in ebay page" time="19.566">
+      <system-out><![CDATA[
+✅ Given The client is in the https://www.ebay.com✅ When The client search for the pilas✅ Then The client count the results
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,62 @@
+{
+  "uid" : "d94aaa51c3e7ce4a",
+  "name" : "Given The client is in the eBay",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Given The client is in the eBay",
+  "historyId" : "a23abd26d638c7d64c842652a00708c0",
+  "time" : {
+    "start" : 1653321526746,
+    "stop" : 1653321526751,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: Cannot read properties of undefined (reading 'url')",
+  "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'url')\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:69:23)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at C:\\project-mobile\\features\\pageobjects\\searchView.ts:8:71\n                    at new Promise (<anonymous>)\n                    at __awaiter (C:\\project-mobile\\features\\pageobjects\\searchView.ts:4:12)\n                    at SearchPage.setPage2 (C:\\project-mobile\\features\\pageobjects\\searchView.ts:137:16)\n                    at C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:6:22\n                    at step (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\step-definitions\\searchSteps.ts:14:53)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given The client is in the eBay"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 5 API 32 12.0-12"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d94aaa51c3e7ce4a.json",
+  "parameterValues" : [ "Pixel 5 API 32 12.0-12" ]
+}

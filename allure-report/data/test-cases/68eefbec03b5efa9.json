@@ -1,0 +1,401 @@
+{
+  "uid" : "68eefbec03b5efa9",
+  "name" : "Given The client is in the https://www.ebay.com/",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Given The client is in the https://www.ebay.com/",
+  "historyId" : "baa168991e60b0887b036d5a8b848bae",
+  "time" : {
+    "start" : 1653492279720,
+    "stop" : 1653492287990,
+    "duration" : 8270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: browser_1.default.swipeUp is not a function",
+  "statusTrace" : "TypeError: browser_1.default.swipeUp is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:66:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 17,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: browser_1.default.swipeUp is not a function",
+    "statusTrace" : "TypeError: browser_1.default.swipeUp is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:66:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492279723,
+        "stop" : 1653492280423,
+        "duration" : 700
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7307c2d0194d34df",
+        "name" : "Request",
+        "source" : "7307c2d0194d34df.json",
+        "type" : "application/json",
+        "size" : 107
+      }, {
+        "uid" : "e01cf6c1da76152f",
+        "name" : "Response",
+        "source" : "e01cf6c1da76152f.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00b7-ffff-ffff0000004a/click",
+      "time" : {
+        "start" : 1653492280433,
+        "stop" : 1653492280549,
+        "duration" : 116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492280551,
+        "stop" : 1653492282168,
+        "duration" : 1617
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "30079bc0908df730",
+        "name" : "Request",
+        "source" : "30079bc0908df730.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "2fb50fe74bcd2aae",
+        "name" : "Response",
+        "source" : "2fb50fe74bcd2aae.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00be-ffff-ffff00000006/clear",
+      "time" : {
+        "start" : 1653492282172,
+        "stop" : 1653492282236,
+        "duration" : 64
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00be-ffff-ffff00000006/value",
+      "time" : {
+        "start" : 1653492282243,
+        "stop" : 1653492282933,
+        "duration" : 690
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "68801199eb0fb602",
+        "name" : "Request",
+        "source" : "68801199eb0fb602.json",
+        "type" : "application/json",
+        "size" : 37
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492282933,
+        "stop" : 1653492284119,
+        "duration" : 1186
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "263a28731c080fa8",
+        "name" : "Request",
+        "source" : "263a28731c080fa8.json",
+        "type" : "application/json",
+        "size" : 214
+      }, {
+        "uid" : "cd3ee69abe0346a4",
+        "name" : "Response",
+        "source" : "cd3ee69abe0346a4.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-00be-ffff-ffff00000007/click",
+      "time" : {
+        "start" : 1653492284122,
+        "stop" : 1653492287980,
+        "duration" : 3858
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653492287985,
+        "stop" : 1653492287990,
+        "duration" : 5
+      },
+      "status" : "broken",
+      "statusMessage" : "TypeError: browser_1.default.swipeUp is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:66:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f1498ee16b77a4f2",
+        "name" : "Request",
+        "source" : "f1498ee16b77a4f2.json",
+        "type" : "application/json",
+        "size" : 96
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 8,
+    "stepsCount" : 8,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given The client is in the https://www.ebay.com/"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 4 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d80685756027f0df",
+      "status" : "broken",
+      "statusDetails" : "TypeError: browser_1.default.swipeUp is not a function",
+      "time" : {
+        "start" : 1653492175396,
+        "stop" : 1653492179654,
+        "duration" : 4258
+      }
+    }, {
+      "uid" : "d2c4b130fa20e4d7",
+      "status" : "broken",
+      "statusDetails" : "TypeError: browser_1.default.swipeUp is not a function",
+      "time" : {
+        "start" : 1653492095859,
+        "stop" : 1653492100287,
+        "duration" : 4428
+      }
+    }, {
+      "uid" : "a65091d657597dd7",
+      "status" : "broken",
+      "statusDetails" : "TypeError: browser_1.default.swipeUp is not a function",
+      "time" : {
+        "start" : 1653491969365,
+        "stop" : 1653491973365,
+        "duration" : 4000
+      }
+    }, {
+      "uid" : "a0ee4ee08f196d7c",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653490784693,
+        "stop" : 1653490799313,
+        "duration" : 14620
+      }
+    }, {
+      "uid" : "fcfcd17aba11260c",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653490675409,
+        "stop" : 1653490689771,
+        "duration" : 14362
+      }
+    }, {
+      "uid" : "644374fea5c31538",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653490545888,
+        "stop" : 1653490555071,
+        "duration" : 9183
+      }
+    }, {
+      "uid" : "92904269b5f913d0",
+      "status" : "broken",
+      "statusDetails" : "TypeError: browser_1.default.swipeUp is not a function",
+      "time" : {
+        "start" : 1653488598222,
+        "stop" : 1653488602822,
+        "duration" : 4600
+      }
+    }, {
+      "uid" : "1856dc83ad2891a1",
+      "status" : "broken",
+      "statusDetails" : "TypeError: browser_1.default.scroll is not a function",
+      "time" : {
+        "start" : 1653488529587,
+        "stop" : 1653488534047,
+        "duration" : 4460
+      }
+    }, {
+      "uid" : "189c2b15083b0252",
+      "status" : "broken",
+      "statusDetails" : "TypeError: browser_1.default.scroll is not a function",
+      "time" : {
+        "start" : 1653488220134,
+        "stop" : 1653488224411,
+        "duration" : 4277
+      }
+    }, {
+      "uid" : "3f198c155539f159",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653488036909,
+        "stop" : 1653488041928,
+        "duration" : 5019
+      }
+    }, {
+      "uid" : "38d30358408ee95d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653483288056,
+        "stop" : 1653483292950,
+        "duration" : 4894
+      }
+    }, {
+      "uid" : "f3fee8cec1e70009",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653482835190,
+        "stop" : 1653482840027,
+        "duration" : 4837
+      }
+    }, {
+      "uid" : "6693811ff080fc99",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'scroll')",
+      "time" : {
+        "start" : 1653482502712,
+        "stop" : 1653482506616,
+        "duration" : 3904
+      }
+    }, {
+      "uid" : "7922483ca4a7ff80",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'scroll')",
+      "time" : {
+        "start" : 1653482376865,
+        "stop" : 1653482381142,
+        "duration" : 4277
+      }
+    }, {
+      "uid" : "29f2347785516be4",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'scroll')",
+      "time" : {
+        "start" : 1653482295339,
+        "stop" : 1653482299550,
+        "duration" : 4211
+      }
+    }, {
+      "uid" : "900f4156899f50ee",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653481285944,
+        "stop" : 1653481290109,
+        "duration" : 4165
+      }
+    }, {
+      "uid" : "65de1acdc5acf350",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'scrollIntoView')",
+      "time" : {
+        "start" : 1653481159513,
+        "stop" : 1653481163363,
+        "duration" : 3850
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "68eefbec03b5efa9.json",
+  "parameterValues" : [ "Nexus 4 API 30 11.0-11" ]
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@content-desc=\"Lotes de 10Pcs AG3 SG3 LR41 192 1.55V Pilas Alcalinas Batería Botón Célula de la moneda Totalmente nuevo USD1.91 Costaba: USD2.01  5 % de descuento o Mejor oferta Envío internacional gratis de China 585 vendidos Patrocinado\"]/android.view.View[6]"
+}

@@ -1,0 +1,166 @@
+{
+  "uid" : "5290a7dd6a021b0c",
+  "name" : "When I login with tomsmith and SuperSecretPassword!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with tomsmith and SuperSecretPassword!",
+  "historyId" : "22fcd3693416c10fc8ab445acd411835",
+  "time" : {
+    "start" : 1653059743512,
+    "stop" : 1653059743512,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with tomsmith and SuperSecretPassword!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "97e618239c8a8fe6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653058624413,
+        "stop" : 1653058624414,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "94969784ae0888ea",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653053963327,
+        "stop" : 1653053963327,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "28905fd94c3eb9a7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653053587817,
+        "stop" : 1653053587817,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "27b6e4c81e5bd8be",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653044643726,
+        "stop" : 1653044643726,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d6c1d34b4aab2523",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652991632348,
+        "stop" : 1652991632348,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9253885c5349f7b3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652990874849,
+        "stop" : 1652990874849,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a13587aff00d7146",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652986519212,
+        "stop" : 1652986519212,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2cfe0fa3dd842e62",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652986070398,
+        "stop" : 1652986070398,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "86e9493cf094876a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652985028983,
+        "stop" : 1652985028983,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6f16608cb585a77",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652985025038,
+        "stop" : 1652985025038,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5616d019b862cd3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652984624360,
+        "stop" : 1652984624361,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3540a5c90b6e5444",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652984620052,
+        "stop" : 1652984620052,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9d641bf468029041",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1652983592550,
+        "stop" : 1652983592550,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5290a7dd6a021b0c.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}

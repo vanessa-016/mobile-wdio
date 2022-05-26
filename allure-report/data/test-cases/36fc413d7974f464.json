@@ -1,0 +1,1140 @@
+{
+  "uid" : "36fc413d7974f464",
+  "name" : "Given The client is in the eBay",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Given The client is in the eBay",
+  "historyId" : "a23abd26d638c7d64c842652a00708c0",
+  "time" : {
+    "start" : 1653328299871,
+    "stop" : 1653328313683,
+    "duration" : 13812
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 84,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653328299875,
+        "stop" : 1653328300495,
+        "duration" : 620
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cf6caaf4cdd9203c",
+        "name" : "Request",
+        "source" : "cf6caaf4cdd9203c.json",
+        "type" : "application/json",
+        "size" : 91
+      }, {
+        "uid" : "59a4c0db4a8d203e",
+        "name" : "Response",
+        "source" : "59a4c0db4a8d203e.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-01a7-ffff-ffff0000000f/click",
+      "time" : {
+        "start" : 1653328300504,
+        "stop" : 1653328300609,
+        "duration" : 105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653328300610,
+        "stop" : 1653328301513,
+        "duration" : 903
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6f9b3da4464b3d65",
+        "name" : "Request",
+        "source" : "6f9b3da4464b3d65.json",
+        "type" : "application/json",
+        "size" : 122
+      }, {
+        "uid" : "b376d6e834e511cd",
+        "name" : "Response",
+        "source" : "b376d6e834e511cd.json",
+        "type" : "application/json",
+        "size" : 820
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653328301519,
+        "stop" : 1653328302974,
+        "duration" : 1455
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d54594395278440b",
+        "name" : "Request",
+        "source" : "d54594395278440b.json",
+        "type" : "application/json",
+        "size" : 122
+      }, {
+        "uid" : "39aa4e48437eff63",
+        "name" : "Response",
+        "source" : "39aa4e48437eff63.json",
+        "type" : "application/json",
+        "size" : 148
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653328302979,
+        "stop" : 1653328303180,
+        "duration" : 201
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9dfd476871b8f036",
+        "name" : "Request",
+        "source" : "9dfd476871b8f036.json",
+        "type" : "application/json",
+        "size" : 122
+      }, {
+        "uid" : "7595ace3199267af",
+        "name" : "Response",
+        "source" : "7595ace3199267af.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-01af-ffff-ffff00001d19/clear",
+      "time" : {
+        "start" : 1653328303187,
+        "stop" : 1653328303217,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-01af-ffff-ffff00001d19/value",
+      "time" : {
+        "start" : 1653328303222,
+        "stop" : 1653328304595,
+        "duration" : 1373
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2665e745bc83431e",
+        "name" : "Request",
+        "source" : "2665e745bc83431e.json",
+        "type" : "application/json",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653328304595,
+        "stop" : 1653328305118,
+        "duration" : 523
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d3a17c0ebb0af468",
+        "name" : "Request",
+        "source" : "d3a17c0ebb0af468.json",
+        "type" : "application/json",
+        "size" : 94
+      }, {
+        "uid" : "1575bc7dc404d98c",
+        "name" : "Response",
+        "source" : "1575bc7dc404d98c.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-01af-ffff-ffff00001d72/click",
+      "time" : {
+        "start" : 1653328305121,
+        "stop" : 1653328305809,
+        "duration" : 688
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653328305809,
+        "stop" : 1653328306747,
+        "duration" : 938
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c5b890bffae7d945",
+        "name" : "Request",
+        "source" : "c5b890bffae7d945.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "5586f53a1d9fc8b7",
+        "name" : "Response",
+        "source" : "5586f53a1d9fc8b7.json",
+        "type" : "application/json",
+        "size" : 820
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653328306750,
+        "stop" : 1653328307811,
+        "duration" : 1061
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8a27733d3387fb5c",
+        "name" : "Request",
+        "source" : "8a27733d3387fb5c.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "a33e2379efdc39e",
+        "name" : "Response",
+        "source" : "a33e2379efdc39e.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653328307818,
+        "stop" : 1653328311515,
+        "duration" : 3697
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d14142831f613885",
+        "name" : "Request",
+        "source" : "d14142831f613885.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "ade6a902972cbb33",
+        "name" : "Response",
+        "source" : "ade6a902972cbb33.json",
+        "type" : "application/json",
+        "size" : 148
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653328311520,
+        "stop" : 1653328312094,
+        "duration" : 574
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9a43486cf44a38aa",
+        "name" : "Request",
+        "source" : "9a43486cf44a38aa.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "52666c540a50e3c0",
+        "name" : "Response",
+        "source" : "52666c540a50e3c0.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-01af-0000-330300001dfb/click",
+      "time" : {
+        "start" : 1653328312099,
+        "stop" : 1653328313681,
+        "duration" : 1582
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 19,
+    "stepsCount" : 14,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given The client is in the eBay"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 5 API 32 12.0-12"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1faf12f6ce72feb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653327900832,
+        "stop" : 1653327910626,
+        "duration" : 9794
+      }
+    }, {
+      "uid" : "750e39aa8a2cddcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653327357255,
+        "stop" : 1653327362567,
+        "duration" : 5312
+      }
+    }, {
+      "uid" : "1760efa44324e9e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653327291628,
+        "stop" : 1653327296433,
+        "duration" : 4805
+      }
+    }, {
+      "uid" : "f72d72b17045d533",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653326311249,
+        "stop" : 1653326316274,
+        "duration" : 5025
+      }
+    }, {
+      "uid" : "248080a1517464d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653325147640,
+        "stop" : 1653325152945,
+        "duration" : 5305
+      }
+    }, {
+      "uid" : "a225ebe2b4d7107a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653322518475,
+        "stop" : 1653322523293,
+        "duration" : 4818
+      }
+    }, {
+      "uid" : "b0404eb5824221c3",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653322231305,
+        "stop" : 1653322231312,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "ed9b3e1e32750c15",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653322024319,
+        "stop" : 1653322024326,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "d94aaa51c3e7ce4a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653321526746,
+        "stop" : 1653321526751,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "cc81c614a98b9305",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653321468018,
+        "stop" : 1653321468731,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "99ef89abd3888d35",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653321416605,
+        "stop" : 1653321417346,
+        "duration" : 741
+      }
+    }, {
+      "uid" : "e26f0df5cb962a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653320920582,
+        "stop" : 1653320924367,
+        "duration" : 3785
+      }
+    }, {
+      "uid" : "5828349c1f03abee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653309919976,
+        "stop" : 1653309923653,
+        "duration" : 3677
+      }
+    }, {
+      "uid" : "b1541f0e1fc1d9c5",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653309723960,
+        "stop" : 1653309728144,
+        "duration" : 4184
+      }
+    }, {
+      "uid" : "db65414b76b0a377",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653309576534,
+        "stop" : 1653309580116,
+        "duration" : 3582
+      }
+    }, {
+      "uid" : "3d11c0da3bc6091a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653309482220,
+        "stop" : 1653309486414,
+        "duration" : 4194
+      }
+    }, {
+      "uid" : "79b6e6ffec3fe92c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653309370027,
+        "stop" : 1653309373970,
+        "duration" : 3943
+      }
+    }, {
+      "uid" : "d5ec6371b79ab083",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653309286958,
+        "stop" : 1653309290802,
+        "duration" : 3844
+      }
+    }, {
+      "uid" : "ee933549ff6b341d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653309099932,
+        "stop" : 1653309103553,
+        "duration" : 3621
+      }
+    }, {
+      "uid" : "18e6c02d43f21e48",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653308460658,
+        "stop" : 1653308463887,
+        "duration" : 3229
+      }
+    }, {
+      "uid" : "6b8007487e52a21a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653308161776,
+        "stop" : 1653308166001,
+        "duration" : 4225
+      }
+    }, {
+      "uid" : "165d2add69f0fd50",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653307926062,
+        "stop" : 1653307929725,
+        "duration" : 3663
+      }
+    }, {
+      "uid" : "3315f3f2ba08aa51",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653304450208,
+        "stop" : 1653304453760,
+        "duration" : 3552
+      }
+    }, {
+      "uid" : "70f53ecf5aa4ad80",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653304351680,
+        "stop" : 1653304355416,
+        "duration" : 3736
+      }
+    }, {
+      "uid" : "123f2790e439874",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653304084933,
+        "stop" : 1653304088348,
+        "duration" : 3415
+      }
+    }, {
+      "uid" : "4e2425b2eb1908ad",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653303401758,
+        "stop" : 1653303407701,
+        "duration" : 5943
+      }
+    }, {
+      "uid" : "72eb102b4e7e492f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653303263283,
+        "stop" : 1653303267309,
+        "duration" : 4026
+      }
+    }, {
+      "uid" : "13672f4781088b2d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653303149514,
+        "stop" : 1653303153321,
+        "duration" : 3807
+      }
+    }, {
+      "uid" : "1225b87ade98942f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot convert object to primitive value",
+      "time" : {
+        "start" : 1653302888851,
+        "stop" : 1653302892793,
+        "duration" : 3942
+      }
+    }, {
+      "uid" : "fdb1c7c552919226",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653302674585,
+        "stop" : 1653302678327,
+        "duration" : 3742
+      }
+    }, {
+      "uid" : "62d1692180a5433a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653302469093,
+        "stop" : 1653302472935,
+        "duration" : 3842
+      }
+    }, {
+      "uid" : "202ce2119ecd10eb",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.widget.FrameLayout[@content-desc=\"Search\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653302367029,
+        "stop" : 1653302377711,
+        "duration" : 10682
+      }
+    }, {
+      "uid" : "2005512b3b17ddb6",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653301513104,
+        "stop" : 1653301516678,
+        "duration" : 3574
+      }
+    }, {
+      "uid" : "1602fd8d46c209ff",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.clik is not a function",
+      "time" : {
+        "start" : 1653298689273,
+        "stop" : 1653298698990,
+        "duration" : 9717
+      }
+    }, {
+      "uid" : "7d807e8766f69e91",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.clik is not a function",
+      "time" : {
+        "start" : 1653276617193,
+        "stop" : 1653276620888,
+        "duration" : 3695
+      }
+    }, {
+      "uid" : "77c764487c7fb102",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653276493694,
+        "stop" : 1653276497937,
+        "duration" : 4243
+      }
+    }, {
+      "uid" : "189c2917c326d06a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653276314112,
+        "stop" : 1653276318452,
+        "duration" : 4340
+      }
+    }, {
+      "uid" : "5a8df68da2be2c7c",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.widget.FrameLayout[@content-desc=\"Search\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653275427021,
+        "stop" : 1653275437726,
+        "duration" : 10705
+      }
+    }, {
+      "uid" : "35894a9bf7f43bbf",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.selectors is not a function",
+      "time" : {
+        "start" : 1653275336559,
+        "stop" : 1653275340643,
+        "duration" : 4084
+      }
+    }, {
+      "uid" : "38857b56eb8ef213",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653275182814,
+        "stop" : 1653275186882,
+        "duration" : 4068
+      }
+    }, {
+      "uid" : "6eeae097f2b69249",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653273197439,
+        "stop" : 1653273197444,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "b949ca3b99f5bdad",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653272982327,
+        "stop" : 1653272986139,
+        "duration" : 3812
+      }
+    }, {
+      "uid" : "aad4524b065b6ad3",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653272780282,
+        "stop" : 1653272784483,
+        "duration" : 4201
+      }
+    }, {
+      "uid" : "4f6506e14aea0dff",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653272700414,
+        "stop" : 1653272704712,
+        "duration" : 4298
+      }
+    }, {
+      "uid" : "db007b452920f728",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653272547110,
+        "stop" : 1653272551356,
+        "duration" : 4246
+      }
+    }, {
+      "uid" : "fdf01f968cfe66d5",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653271039693,
+        "stop" : 1653271043448,
+        "duration" : 3755
+      }
+    }, {
+      "uid" : "373274247b995285",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653270617611,
+        "stop" : 1653270622853,
+        "duration" : 5242
+      }
+    }, {
+      "uid" : "752eb6d4ac00055a",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"//*[@resource-id=\"com.google.android.googlequicksearchbox:id/googleapp_search_box\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653270579092,
+        "stop" : 1653270590305,
+        "duration" : 11213
+      }
+    }, {
+      "uid" : "f7deeafe20f34e69",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653270430190,
+        "stop" : 1653270433705,
+        "duration" : 3515
+      }
+    }, {
+      "uid" : "465c8d156003c6bc",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653269809945,
+        "stop" : 1653269814195,
+        "duration" : 4250
+      }
+    }, {
+      "uid" : "f1f5296891e23f1",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653269719538,
+        "stop" : 1653269724624,
+        "duration" : 5086
+      }
+    }, {
+      "uid" : "5ddac2df4123f92c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653269533953,
+        "stop" : 1653269533958,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "62d8e3b67ec10c1c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653264971551,
+        "stop" : 1653264982031,
+        "duration" : 10480
+      }
+    }, {
+      "uid" : "b7ea0e626b045dd7",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653255600883,
+        "stop" : 1653255605172,
+        "duration" : 4289
+      }
+    }, {
+      "uid" : "80f2139d24682ab2",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653254641297,
+        "stop" : 1653254644815,
+        "duration" : 3518
+      }
+    }, {
+      "uid" : "9e81a3a8c7c50bda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653254301708,
+        "stop" : 1653254305831,
+        "duration" : 4123
+      }
+    }, {
+      "uid" : "fdf82ac57780d0a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653254212109,
+        "stop" : 1653254212829,
+        "duration" : 720
+      }
+    }, {
+      "uid" : "7430f6e5c2ddff71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653254142772,
+        "stop" : 1653254143488,
+        "duration" : 716
+      }
+    }, {
+      "uid" : "d2f71977ad7815a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653254058086,
+        "stop" : 1653254058781,
+        "duration" : 695
+      }
+    }, {
+      "uid" : "eb48391886837949",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653253875609,
+        "stop" : 1653253880528,
+        "duration" : 4919
+      }
+    }, {
+      "uid" : "85c2f79f6822653f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653253619940,
+        "stop" : 1653253623730,
+        "duration" : 3790
+      }
+    }, {
+      "uid" : "2375401114de87ed",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653253538372,
+        "stop" : 1653253542012,
+        "duration" : 3640
+      }
+    }, {
+      "uid" : "bb642d303edc1644",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.click is not a function",
+      "time" : {
+        "start" : 1653253062914,
+        "stop" : 1653253067549,
+        "duration" : 4635
+      }
+    }, {
+      "uid" : "f70a10fdfda9ee6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653249421234,
+        "stop" : 1653249425286,
+        "duration" : 4052
+      }
+    }, {
+      "uid" : "1dddbae85a53c3b8",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"//*[@resource-id=\"googleapp_search_box\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653249117119,
+        "stop" : 1653249128221,
+        "duration" : 11102
+      }
+    }, {
+      "uid" : "3bf42f6f585bd6f8",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"//*[@resource-id=\"googleapp_search_box\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653248979174,
+        "stop" : 1653248991822,
+        "duration" : 12648
+      }
+    }, {
+      "uid" : "d0404b0cc6375772",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"//*[@resource-id=\"android.widget.EditText\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653248533609,
+        "stop" : 1653248545456,
+        "duration" : 11847
+      }
+    }, {
+      "uid" : "bdcf05d77d5bad1f",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//*[@resource-id=\"com.android.chrome:id/terms_accept\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653248452958,
+        "stop" : 1653248464875,
+        "duration" : 11917
+      }
+    }, {
+      "uid" : "bf9ef2f6b18f6b14",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//*[@resource-id=\"com.android.chrome:id/terms_accept\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653248384537,
+        "stop" : 1653248402094,
+        "duration" : 17557
+      }
+    }, {
+      "uid" : "dfb30fe8ca68d718",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//*=android.widget.Button\" because element wasn't found",
+      "time" : {
+        "start" : 1653247668358,
+        "stop" : 1653247680334,
+        "duration" : 11976
+      }
+    }, {
+      "uid" : "949db6afefabe70a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653245944584,
+        "stop" : 1653245945831,
+        "duration" : 1247
+      }
+    }, {
+      "uid" : "5bf2e62d186a4bfc",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653245803461,
+        "stop" : 1653245805328,
+        "duration" : 1867
+      }
+    }, {
+      "uid" : "356b1b8ac4961ca6",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653245182421,
+        "stop" : 1653245183876,
+        "duration" : 1455
+      }
+    }, {
+      "uid" : "b75a192119837c09",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"//android.widget.FrameLayout[@content-desc=\"Search\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653244864653,
+        "stop" : 1653244875815,
+        "duration" : 11162
+      }
+    }, {
+      "uid" : "e8625e9f262044a9",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.widget.FrameLayout[@content-desc=\"Search\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653244637880,
+        "stop" : 1653244648641,
+        "duration" : 10761
+      }
+    }, {
+      "uid" : "18c225d635ace00f",
+      "status" : "failed",
+      "statusDetails" : "invalid selector: Invalid CSS selector 'com.google.android.googlequicksearchbox:id/googleapp_search_box'. Reason: 'Error: Rule expected but \"/\" found.'",
+      "time" : {
+        "start" : 1653244542139,
+        "stop" : 1653244543024,
+        "duration" : 885
+      }
+    }, {
+      "uid" : "3fcd47e214931723",
+      "status" : "failed",
+      "statusDetails" : "invalid selector: Invalid CSS selector 'com.google.android.googlequicksearchbox:id/googleapp_search_box'. Reason: 'Error: Rule expected but \"/\" found.'",
+      "time" : {
+        "start" : 1653244478343,
+        "stop" : 1653244479200,
+        "duration" : 857
+      }
+    }, {
+      "uid" : "1db46e52e6d1b86f",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"//*=android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1653243642870,
+        "stop" : 1653243655310,
+        "duration" : 12440
+      }
+    }, {
+      "uid" : "8a77cb2275571d36",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.widget.FrameLayout[@content-desc=\"Search\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653243552095,
+        "stop" : 1653243562842,
+        "duration" : 10747
+      }
+    }, {
+      "uid" : "19ad9c1ce988a43a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653243048875,
+        "stop" : 1653243050105,
+        "duration" : 1230
+      }
+    }, {
+      "uid" : "68a59cc73982796a",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//*=android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1653242918095,
+        "stop" : 1653242929431,
+        "duration" : 11336
+      }
+    }, {
+      "uid" : "7221b889ff035b40",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653242403338,
+        "stop" : 1653242406049,
+        "duration" : 2711
+      }
+    }, {
+      "uid" : "4dab547cdee6a82d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653241861429,
+        "stop" : 1653241862999,
+        "duration" : 1570
+      }
+    }, {
+      "uid" : "27fe2c03534ba5c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653199942787,
+        "stop" : 1653199944140,
+        "duration" : 1353
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36fc413d7974f464.json",
+  "parameterValues" : [ "Pixel 5 API 32 12.0-12" ]
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@resource-id=\"com.google.android.googlequicksearchbox:id/googleapp_start_icon\"]"
+}

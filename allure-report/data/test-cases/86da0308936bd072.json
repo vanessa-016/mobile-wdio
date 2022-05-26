@@ -1,0 +1,102 @@
+{
+  "uid" : "86da0308936bd072",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying Your username is invalid!",
+  "historyId" : "32b9ec33d5f4fd1d72520028664fcb49",
+  "time" : {
+    "start" : 1653166517107,
+    "stop" : 1653166517107,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying Your username is invalid!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 5 API 32 12.0-12"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b7c59cee072fe809",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653161488193,
+        "stop" : 1653161488193,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1d4a606bfb924d4c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653110125476,
+        "stop" : 1653110125476,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a156e127f846588e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653110012132,
+        "stop" : 1653110012132,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fde2a96526a2b1e1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653109609327,
+        "stop" : 1653109609328,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "311114ff7b973989",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653108968348,
+        "stop" : 1653108968348,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86da0308936bd072.json",
+  "parameterValues" : [ "Pixel 5 API 32 12.0-12" ]
+}

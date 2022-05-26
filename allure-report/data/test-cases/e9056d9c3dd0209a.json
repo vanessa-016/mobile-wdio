@@ -1,0 +1,309 @@
+{
+  "uid" : "e9056d9c3dd0209a",
+  "name" : "Given I am on the login page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Given I am on the login page",
+  "historyId" : "fc0645f41b0a4143c5b25d6aca134ae0",
+  "time" : {
+    "start" : 1653059743525,
+    "stop" : 1653059743547,
+    "duration" : 22
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+  "statusTrace" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required\n                    at getErrorFromResponseBody (C:\\project-mobile\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\project-mobile\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\steps.ts:11:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 23,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+    "statusTrace" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required\n                    at getErrorFromResponseBody (C:\\project-mobile\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\project-mobile\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\steps.ts:11:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1653059743527,
+        "stop" : 1653059743547,
+        "duration" : 20
+      },
+      "status" : "broken",
+      "statusMessage" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required\n                    at getErrorFromResponseBody (C:\\project-mobile\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\project-mobile\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\steps.ts:11:5)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8803653a77715f51",
+        "name" : "Request",
+        "source" : "8803653a77715f51.json",
+        "type" : "application/json",
+        "size" : 41
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3d574a5e0d087799",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653059743399,
+        "stop" : 1653059743512,
+        "duration" : 113
+      }
+    }, {
+      "uid" : "18dabcaa1877132b",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653058624426,
+        "stop" : 1653058624448,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "8c21bc5c72fbfc37",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653058624299,
+        "stop" : 1653058624413,
+        "duration" : 114
+      }
+    }, {
+      "uid" : "c9b93dff75b99eaf",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653053963339,
+        "stop" : 1653053963388,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "8c32647b10013",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653053963207,
+        "stop" : 1653053963326,
+        "duration" : 119
+      }
+    }, {
+      "uid" : "839498df1c01222e",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653053587828,
+        "stop" : 1653053587882,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "26ff2fc47b5702ef",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653053587722,
+        "stop" : 1653053587817,
+        "duration" : 95
+      }
+    }, {
+      "uid" : "e745b581a282c088",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653044643737,
+        "stop" : 1653044643770,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "ffb5ab3fa01c8d90",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653044643612,
+        "stop" : 1653044643726,
+        "duration" : 114
+      }
+    }, {
+      "uid" : "8b462e5681bf3802",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652991632362,
+        "stop" : 1652991632396,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "570bb890156fb45",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652991632252,
+        "stop" : 1652991632347,
+        "duration" : 95
+      }
+    }, {
+      "uid" : "4408847972cdd4e2",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652990874863,
+        "stop" : 1652990874896,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "1c941973bf126e65",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652990874736,
+        "stop" : 1652990874849,
+        "duration" : 113
+      }
+    }, {
+      "uid" : "4f66ed9f0e5da3d1",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652986519223,
+        "stop" : 1652986519268,
+        "duration" : 45
+      }
+    }, {
+      "uid" : "5c35358dd6029735",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652986519101,
+        "stop" : 1652986519212,
+        "duration" : 111
+      }
+    }, {
+      "uid" : "a69899c41815b6a7",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652986070410,
+        "stop" : 1652986070438,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "af887c80a2211b94",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652986070303,
+        "stop" : 1652986070398,
+        "duration" : 95
+      }
+    }, {
+      "uid" : "1433c5d3a861d451",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652985025051,
+        "stop" : 1652985025080,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "afba78e1c06d484c",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652985024927,
+        "stop" : 1652985025038,
+        "duration" : 111
+      }
+    }, {
+      "uid" : "877d752180699656",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652984624373,
+        "stop" : 1652984624406,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "241394e60068486c",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652984624259,
+        "stop" : 1652984624360,
+        "duration" : 101
+      }
+    }, {
+      "uid" : "4f1f1d28a502409c",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652983592565,
+        "stop" : 1652983592597,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "3bda3c8215d3e9c2",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1652983592413,
+        "stop" : 1652983592550,
+        "duration" : 137
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e9056d9c3dd0209a.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}

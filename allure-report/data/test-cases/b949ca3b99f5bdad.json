@@ -1,0 +1,233 @@
+{
+  "uid" : "b949ca3b99f5bdad",
+  "name" : "Given The client is in the eBay",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Given The client is in the eBay",
+  "historyId" : "a23abd26d638c7d64c842652a00708c0",
+  "time" : {
+    "start" : 1653272982327,
+    "stop" : 1653272986139,
+    "duration" : 3812
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: this.searchButton.click is not a function",
+  "statusTrace" : "TypeError: this.searchButton.click is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:69:33)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: this.searchButton.click is not a function",
+    "statusTrace" : "TypeError: this.searchButton.click is not a function\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:69:33)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchPage.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653272982331,
+        "stop" : 1653272982965,
+        "duration" : 634
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "61c198934be7a835",
+        "name" : "Request",
+        "source" : "61c198934be7a835.json",
+        "type" : "application/json",
+        "size" : 91
+      }, {
+        "uid" : "9dbc2fc81fe95596",
+        "name" : "Response",
+        "source" : "9dbc2fc81fe95596.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0074-ffff-ffff0000000f/click",
+      "time" : {
+        "start" : 1653272982973,
+        "stop" : 1653272983063,
+        "duration" : 90
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653272983065,
+        "stop" : 1653272983599,
+        "duration" : 534
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "609d53578a06dc5c",
+        "name" : "Request",
+        "source" : "609d53578a06dc5c.json",
+        "type" : "application/json",
+        "size" : 122
+      }, {
+        "uid" : "673b846731dc8390",
+        "name" : "Response",
+        "source" : "673b846731dc8390.json",
+        "type" : "application/json",
+        "size" : 820
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653272983604,
+        "stop" : 1653272985254,
+        "duration" : 1650
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "830bfd32085f3750",
+        "name" : "Request",
+        "source" : "830bfd32085f3750.json",
+        "type" : "application/json",
+        "size" : 122
+      }, {
+        "uid" : "5ca5ad01994c3c12",
+        "name" : "Response",
+        "source" : "5ca5ad01994c3c12.json",
+        "type" : "application/json",
+        "size" : 148
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653272985258,
+        "stop" : 1653272985405,
+        "duration" : 147
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6d8ec7bfbfc62459",
+        "name" : "Request",
+        "source" : "6d8ec7bfbfc62459.json",
+        "type" : "application/json",
+        "size" : 122
+      }, {
+        "uid" : "6bdb1ead20171630",
+        "name" : "Response",
+        "source" : "6bdb1ead20171630.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0076-ffff-ffff00000570/clear",
+      "time" : {
+        "start" : 1653272985409,
+        "stop" : 1653272985474,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0076-ffff-ffff00000570/value",
+      "time" : {
+        "start" : 1653272985478,
+        "stop" : 1653272986136,
+        "duration" : 658
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5f35d83fbf918f78",
+        "name" : "Request",
+        "source" : "5f35d83fbf918f78.json",
+        "type" : "application/json",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 9,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given The client is in the eBay"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 5 API 32 12.0-12"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b949ca3b99f5bdad.json",
+  "parameterValues" : [ "Pixel 5 API 32 12.0-12" ]
+}

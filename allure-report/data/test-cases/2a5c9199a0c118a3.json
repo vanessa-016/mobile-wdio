@@ -1,0 +1,198 @@
+{
+  "uid" : "2a5c9199a0c118a3",
+  "name" : "",
+  "fullName" : "The client search in the view page: The client search by \"pilas\" in ebay page.",
+  "historyId" : "d0c33892f47bc3604095351c03dc541e",
+  "time" : {
+    "start" : 1653526772973,
+    "stop" : 1653526772973,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 17,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 4 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8b69f989b95a8eb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653526757058,
+        "stop" : 1653526757060,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2ee979ce98017a9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653525344632,
+        "stop" : 1653525344633,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1e0eaceb408c61a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653525326971,
+        "stop" : 1653525326972,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "497d362766fbb673",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653524276903,
+        "stop" : 1653524276904,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c2ac4bdbb5871a53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653524258559,
+        "stop" : 1653524258560,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3054500c58ce8a9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509751432,
+        "stop" : 1653509751433,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "22615930b10c89fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509734830,
+        "stop" : 1653509734832,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f1680a2bd56b75ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509278567,
+        "stop" : 1653509278568,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "777dcf36d68290b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509263202,
+        "stop" : 1653509263204,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "454b6ed4d58888a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509152435,
+        "stop" : 1653509152435,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "27f747c31bc6dd0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509137116,
+        "stop" : 1653509137118,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "dee2221a812668e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653507974021,
+        "stop" : 1653507974021,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5eb41d7b9c858726",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653507956657,
+        "stop" : 1653507956659,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1dfea84fabda4cdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653507858876,
+        "stop" : 1653507858876,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d910c15a0a97e943",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653507844111,
+        "stop" : 1653507844113,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f005945de304264e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653507701192,
+        "stop" : 1653507701193,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "451aeaf5e289f667",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653507686307,
+        "stop" : 1653507686308,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a5c9199a0c118a3.json",
+  "parameterValues" : [ "Nexus 4 API 30 11.0-11" ]
+}

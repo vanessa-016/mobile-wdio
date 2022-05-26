@@ -1,0 +1,173 @@
+{
+  "uid" : "5bf11a6646e7a814",
+  "name" : "Then The client count the results",
+  "fullName" : "The client search in the view page: The client search by \"pilas\" in ebay page.Then The client count the results",
+  "historyId" : "454697e2c2327a15d991d6c4d44f8cc6",
+  "time" : {
+    "start" : 1653528850282,
+    "stop" : 1653528850287,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653528850283,
+        "stop" : 0,
+        "duration" : -1653528850283
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "daad4f7e7837de30",
+        "name" : "Request",
+        "source" : "daad4f7e7837de30.json",
+        "type" : "application/json",
+        "size" : 328
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then The client count the results"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 5 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "97c940e680711459",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653528745055,
+        "stop" : 1653528745055,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a6fc58d3f8f5a537",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653527809851,
+        "stop" : 1653527809852,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "be59ee0de9a81a3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653527641009,
+        "stop" : 1653527641010,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2de95a337cbe6ce6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653527473805,
+        "stop" : 1653527473805,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "546d00b4c3dca572",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653527319468,
+        "stop" : 1653527319469,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "88637942be9992ed",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653527270045,
+        "stop" : 1653527270046,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9b057c6c5208386c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653527191967,
+        "stop" : 1653527191967,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3f4f2cde3a83ef96",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653527093266,
+        "stop" : 1653527093266,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6bd59e6043c6891c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653526987909,
+        "stop" : 1653526987914,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "5dce1fe9535eba0e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653526888040,
+        "stop" : 1653526888041,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bf11a6646e7a814.json",
+  "parameterValues" : [ "Nexus 5 API 30 11.0-11" ]
+}

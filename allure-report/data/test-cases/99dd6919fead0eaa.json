@@ -1,0 +1,96 @@
+{
+  "uid" : "99dd6919fead0eaa",
+  "name" : "Given I am on the login page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Given I am on the login page",
+  "historyId" : "fa6193b85f637d407bb3b44f5463c75a",
+  "time" : {
+    "start" : 1653110125093,
+    "stop" : 1653110125476,
+    "duration" : 383
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "unknown error: An unknown server-side error occurred while processing the command. Original error: Error attempting to start URI. Original error: Error: Starting: Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... pkg=com.wdiodemoapp }\n",
+  "statusTrace" : "unknown error: An unknown server-side error occurred while processing the command. Original error: Error attempting to start URI. Original error: Error: Starting: Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... pkg=com.wdiodemoapp }\n                Error: Activity not started, unable to resolve Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... flg=0x10000000 pkg=com.wdiodemoapp }\n                    at getErrorFromResponseBody (C:\\project-mobile\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\project-mobile\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\steps.ts:11:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "unknown error: An unknown server-side error occurred while processing the command. Original error: Error attempting to start URI. Original error: Error: Starting: Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... pkg=com.wdiodemoapp }\n",
+    "statusTrace" : "unknown error: An unknown server-side error occurred while processing the command. Original error: Error attempting to start URI. Original error: Error: Starting: Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... pkg=com.wdiodemoapp }\n                Error: Activity not started, unable to resolve Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... flg=0x10000000 pkg=com.wdiodemoapp }\n                    at getErrorFromResponseBody (C:\\project-mobile\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\project-mobile\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\steps.ts:11:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1653110125095,
+        "stop" : 1653110125476,
+        "duration" : 381
+      },
+      "status" : "broken",
+      "statusMessage" : "unknown error: An unknown server-side error occurred while processing the command. Original error: Error attempting to start URI. Original error: Error: Starting: Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... pkg=com.wdiodemoapp }\n                Error: Activity not started, unable to resolve Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... flg=0x10000000 pkg=com.wdiodemoapp }\n                    at getErrorFromResponseBody (C:\\project-mobile\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\project-mobile\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Browser.wrapCommandFn (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\steps.ts:11:5)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "aac3fce828840de2",
+        "name" : "Request",
+        "source" : "aac3fce828840de2.json",
+        "type" : "application/json",
+        "size" : 41
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 5 API 32 12.0-12"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99dd6919fead0eaa.json",
+  "parameterValues" : [ "Pixel 5 API 32 12.0-12" ]
+}

@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653307926059' stop='1653307929727'>
+    <name>The client search in the ebay page: The client search by "pilas" in ebay page</name>
+    <title>The client search in the ebay page: The client search by "pilas" in ebay page</title>
+    <test-cases>
+        <test-case start='1653307926060' status='passed' stop='1653307926062'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Pixel 5 API 32 12.0-12'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653307926062' status='broken' stop='1653307929725'>
+            <name>Given The client is in the eBay</name>
+            <title>Given The client is in the eBay</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Pixel 5 API 32 12.0-12'/>
+            </parameters>
+            <steps>
+                <step start='1653307926066' status='passed' stop='1653307926669'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='ef84a6ba-8364-4303-9889-3d41490b0ac1-attachment.json' type='application/json' size='91'/>
+                        <attachment title='Response' source='3e21ef73-8c59-474c-9a56-36528ed07cbb-attachment.json' type='application/json' size='136'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1653307926676' status='passed' stop='1653307926780'>
+                    <name>POST /session/:sessionId/element/00000000-0000-00c9-ffff-ffff0000000f/click</name>
+                    <title>POST /session/:sessionId/element/00000000-0000-00c9-ffff-ffff0000000f/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1653307926780' status='passed' stop='1653307927558'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='1705c1dc-bc04-4724-aa5f-ae033c03fb8d-attachment.json' type='application/json' size='122'/>
+                        <attachment title='Response' source='7a88ffc6-1a08-4283-b340-a5844b1aaeb6-attachment.json' type='application/json' size='820'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1653307927563' status='passed' stop='1653307928356'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='c5af2ddc-7839-4765-b717-2d30105e89f6-attachment.json' type='application/json' size='122'/>
+                        <attachment title='Response' source='2f5e983b-5f4b-49f2-af8f-a1d0110bebbe-attachment.json' type='application/json' size='148'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1653307928362' status='passed' stop='1653307928954'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='edd6d53f-6ff5-4b2d-920b-565415020036-attachment.json' type='application/json' size='122'/>
+                        <attachment title='Response' source='4bc13ce2-2120-4773-939b-346d396a4923-attachment.json' type='application/json' size='136'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1653307928959' status='passed' stop='1653307929021'>
+                    <name>POST /session/:sessionId/element/00000000-0000-00cc-ffff-ffff00000f59/clear</name>
+                    <title>POST /session/:sessionId/element/00000000-0000-00cc-ffff-ffff00000f59/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1653307929025' status='passed' stop='1653307929718'>
+                    <name>POST /session/:sessionId/element/00000000-0000-00cc-ffff-ffff00000f59/value</name>
+                    <title>POST /session/:sessionId/element/00000000-0000-00cc-ffff-ffff00000f59/value</title>
+                    <attachments>
+                        <attachment title='Request' source='1f36e4e7-ebcc-4a42-b093-aee524c2b35c-attachment.json' type='application/json' size='20'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1653307929720' status='broken' stop='1653307929725'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='5e6c7a79-e297-4f2a-b987-d22b0bc6ef95-attachment.json' type='application/json' size='73'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>TypeError: Cannot convert object to primitive value</message>
+                <stack-trace>TypeError: Cannot convert object to primitive value
+                    at SearchPage.&lt;anonymous> (C:\project-mobile\features\pageobjects\searchView.ts:66:38)
+                    at step (C:\project-mobile\features\pageobjects\searchView.ts:33:23)
+                    at Object.next (C:\project-mobile\features\pageobjects\searchView.ts:14:53)
+                    at fulfilled (C:\project-mobile\features\pageobjects\searchView.ts:5:58)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1653307929725' status='pending' stop='1653307929725'>
+            <name>When The client search for the pilas</name>
+            <title>When The client search for the pilas</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Pixel 5 API 32 12.0-12'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653307929726' status='pending' stop='1653307929726'>
+            <name>Then The client count the results</name>
+            <title>Then The client count the results</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Pixel 5 API 32 12.0-12'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653307929726' status='passed' stop='1653307929726'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='Pixel 5 API 32 12.0-12'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,731 @@
+{
+  "uid" : "1e3740b858c03545",
+  "name" : "Given The client is in the eBay",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Given The client is in the eBay",
+  "historyId" : "3a46905b09294c0bc817765f8649d57c",
+  "time" : {
+    "start" : 1653388955113,
+    "stop" : 1653388959394,
+    "duration" : 4281
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+  "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:67:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 51,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+    "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')\n                    at SearchPage.<anonymous> (C:\\project-mobile\\features\\pageobjects\\searchView.ts:67:17)\n                    at step (C:\\project-mobile\\features\\pageobjects\\searchView.ts:33:23)\n                    at Object.next (C:\\project-mobile\\features\\pageobjects\\searchView.ts:14:53)\n                    at fulfilled (C:\\project-mobile\\features\\pageobjects\\searchView.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653388955116,
+        "stop" : 1653388955766,
+        "duration" : 650
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "687256ee93dff540",
+        "name" : "Request",
+        "source" : "687256ee93dff540.json",
+        "type" : "application/json",
+        "size" : 107
+      }, {
+        "uid" : "be7ae94535c358a6",
+        "name" : "Response",
+        "source" : "be7ae94535c358a6.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-000a-ffff-ffff0000004a/click",
+      "time" : {
+        "start" : 1653388955773,
+        "stop" : 1653388955840,
+        "duration" : 67
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653388955841,
+        "stop" : 1653388956056,
+        "duration" : 215
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "677e8b7f03809302",
+        "name" : "Request",
+        "source" : "677e8b7f03809302.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "f7257a864c518ee1",
+        "name" : "Response",
+        "source" : "f7257a864c518ee1.json",
+        "type" : "application/json",
+        "size" : 820
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653388956062,
+        "stop" : 1653388957463,
+        "duration" : 1401
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "48fd26ae69a73f8f",
+        "name" : "Request",
+        "source" : "48fd26ae69a73f8f.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "7a9c7a30e9d19b61",
+        "name" : "Response",
+        "source" : "7a9c7a30e9d19b61.json",
+        "type" : "application/json",
+        "size" : 148
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653388957467,
+        "stop" : 1653388957549,
+        "duration" : 82
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c233caa10b4ce810",
+        "name" : "Request",
+        "source" : "c233caa10b4ce810.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "cd13e67bac53370",
+        "name" : "Response",
+        "source" : "cd13e67bac53370.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0011-ffff-ffff00000006/clear",
+      "time" : {
+        "start" : 1653388957552,
+        "stop" : 1653388957583,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0011-ffff-ffff00000006/value",
+      "time" : {
+        "start" : 1653388957587,
+        "stop" : 1653388958264,
+        "duration" : 677
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "150f87819198dc1f",
+        "name" : "Request",
+        "source" : "150f87819198dc1f.json",
+        "type" : "application/json",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653388958265,
+        "stop" : 1653388959271,
+        "duration" : 1006
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e48cc9ee87880dd8",
+        "name" : "Request",
+        "source" : "e48cc9ee87880dd8.json",
+        "type" : "application/json",
+        "size" : 214
+      }, {
+        "uid" : "547d9235f767c766",
+        "name" : "Response",
+        "source" : "547d9235f767c766.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0011-ffff-ffff00000007/click",
+      "time" : {
+        "start" : 1653388959275,
+        "stop" : 1653388959387,
+        "duration" : 112
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 11,
+    "stepsCount" : 9,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given The client is in the eBay"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 4 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "61c1f82e22fef02",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653388685879,
+        "stop" : 1653388701672,
+        "duration" : 15793
+      }
+    }, {
+      "uid" : "cf97fe29056fbee7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653364867456,
+        "stop" : 1653364878924,
+        "duration" : 11468
+      }
+    }, {
+      "uid" : "ed34954e5be7857a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653364649930,
+        "stop" : 1653364659027,
+        "duration" : 9097
+      }
+    }, {
+      "uid" : "b3eb3e479d7a6bce",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653364555704,
+        "stop" : 1653364570309,
+        "duration" : 14605
+      }
+    }, {
+      "uid" : "cb5046ac95257621",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653363308695,
+        "stop" : 1653363317787,
+        "duration" : 9092
+      }
+    }, {
+      "uid" : "f29f9b955d1cfea2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653363131020,
+        "stop" : 1653363139644,
+        "duration" : 8624
+      }
+    }, {
+      "uid" : "8527c533e17bb72e",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653362987438,
+        "stop" : 1653363002323,
+        "duration" : 14885
+      }
+    }, {
+      "uid" : "e8a5cd1f9e378e9d",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653362903306,
+        "stop" : 1653362917854,
+        "duration" : 14548
+      }
+    }, {
+      "uid" : "ac9dc9b3d24f14a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653362828757,
+        "stop" : 1653362837992,
+        "duration" : 9235
+      }
+    }, {
+      "uid" : "38199faff02dee9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653362527278,
+        "stop" : 1653362536409,
+        "duration" : 9131
+      }
+    }, {
+      "uid" : "9e94b8bdea7fd259",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653362362492,
+        "stop" : 1653362366483,
+        "duration" : 3991
+      }
+    }, {
+      "uid" : "8ff3c755144aeb12",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653362238584,
+        "stop" : 1653362242965,
+        "duration" : 4381
+      }
+    }, {
+      "uid" : "40854f6611895c9f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653362059109,
+        "stop" : 1653362063530,
+        "duration" : 4421
+      }
+    }, {
+      "uid" : "4dbb933329570c36",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653361845380,
+        "stop" : 1653361849651,
+        "duration" : 4271
+      }
+    }, {
+      "uid" : "db703c302384c587",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653361709493,
+        "stop" : 1653361723948,
+        "duration" : 14455
+      }
+    }, {
+      "uid" : "1c3e5c63f9569644",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653360663798,
+        "stop" : 1653360674817,
+        "duration" : 11019
+      }
+    }, {
+      "uid" : "afa55c119e0cf29b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653360523197,
+        "stop" : 1653360532257,
+        "duration" : 9060
+      }
+    }, {
+      "uid" : "e947769fe95ddf04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653360195988,
+        "stop" : 1653360205639,
+        "duration" : 9651
+      }
+    }, {
+      "uid" : "9cded4473d85fac0",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653360042457,
+        "stop" : 1653360046759,
+        "duration" : 4302
+      }
+    }, {
+      "uid" : "87e573feba7bcae8",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653359883171,
+        "stop" : 1653359887384,
+        "duration" : 4213
+      }
+    }, {
+      "uid" : "3792a72a00f6227e",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'scroll')",
+      "time" : {
+        "start" : 1653359369112,
+        "stop" : 1653359373018,
+        "duration" : 3906
+      }
+    }, {
+      "uid" : "338af9d5fcfcdafd",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'scroll')",
+      "time" : {
+        "start" : 1653359262606,
+        "stop" : 1653359266771,
+        "duration" : 4165
+      }
+    }, {
+      "uid" : "6523d0a1314431ad",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653359130231,
+        "stop" : 1653359135813,
+        "duration" : 5582
+      }
+    }, {
+      "uid" : "8079953a6c1ba39a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653358348095,
+        "stop" : 1653358348100,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "d4d4ad91c6dc68c4",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'url')",
+      "time" : {
+        "start" : 1653358152687,
+        "stop" : 1653358152692,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "f1d37cb53c296fc",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeDown')",
+      "time" : {
+        "start" : 1653348915240,
+        "stop" : 1653348919347,
+        "duration" : 4107
+      }
+    }, {
+      "uid" : "b65855912f2fc5b0",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653348872219,
+        "stop" : 1653348876231,
+        "duration" : 4012
+      }
+    }, {
+      "uid" : "6e4de7016a24b19f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeDown')",
+      "time" : {
+        "start" : 1653348761481,
+        "stop" : 1653348765629,
+        "duration" : 4148
+      }
+    }, {
+      "uid" : "21ce9382c0c39445",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653348706748,
+        "stop" : 1653348711059,
+        "duration" : 4311
+      }
+    }, {
+      "uid" : "7cf80aa772fa14d3",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653347478501,
+        "stop" : 1653347493046,
+        "duration" : 14545
+      }
+    }, {
+      "uid" : "35754eb6a01c50c6",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653346775271,
+        "stop" : 1653346790263,
+        "duration" : 14992
+      }
+    }, {
+      "uid" : "6b9c970e08a86944",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653345439951,
+        "stop" : 1653345444593,
+        "duration" : 4642
+      }
+    }, {
+      "uid" : "a7d9846c7e13418b",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call scrollIntoView on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653345345014,
+        "stop" : 1653345359190,
+        "duration" : 14176
+      }
+    }, {
+      "uid" : "bf7af194dc1f97b1",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653345270594,
+        "stop" : 1653345284783,
+        "duration" : 14189
+      }
+    }, {
+      "uid" : "64d8922c72876885",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653345180607,
+        "stop" : 1653345187563,
+        "duration" : 6956
+      }
+    }, {
+      "uid" : "5351730cf25c7c35",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653344929700,
+        "stop" : 1653344933999,
+        "duration" : 4299
+      }
+    }, {
+      "uid" : "88cb7ef31c86e964",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653344473303,
+        "stop" : 1653344478129,
+        "duration" : 4826
+      }
+    }, {
+      "uid" : "1988a9486c382a1c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653342288080,
+        "stop" : 1653342292835,
+        "duration" : 4755
+      }
+    }, {
+      "uid" : "87a8588dc974e421",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653342237921,
+        "stop" : 1653342242841,
+        "duration" : 4920
+      }
+    }, {
+      "uid" : "775152e2fb9e6e3b",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653339393457,
+        "stop" : 1653339398046,
+        "duration" : 4589
+      }
+    }, {
+      "uid" : "eff33918ef4faec",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653338759078,
+        "stop" : 1653338763647,
+        "duration" : 4569
+      }
+    }, {
+      "uid" : "cf7e142cb7c70cee",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//*[@resource-id=\"com.android.quicksearchbox:id/search_widget_text\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653338704731,
+        "stop" : 1653338715429,
+        "duration" : 10698
+      }
+    }, {
+      "uid" : "1510e37547810e01",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.selectEbay.SwipeUp.Enable is not a function",
+      "time" : {
+        "start" : 1653337510182,
+        "stop" : 1653337514225,
+        "duration" : 4043
+      }
+    }, {
+      "uid" : "ceba2e3f9e36af92",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call scrollIntoView on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653337404191,
+        "stop" : 1653337418375,
+        "duration" : 14184
+      }
+    }, {
+      "uid" : "4aa61cd92549e384",
+      "status" : "broken",
+      "statusDetails" : "TypeError: swipe_up_1.default.Enable is not a function",
+      "time" : {
+        "start" : 1653336110507,
+        "stop" : 1653336114878,
+        "duration" : 4371
+      }
+    }, {
+      "uid" : "d2d15a32c214e31b",
+      "status" : "broken",
+      "statusDetails" : "ReferenceError: window is not defined",
+      "time" : {
+        "start" : 1653335991283,
+        "stop" : 1653335994250,
+        "duration" : 2967
+      }
+    }, {
+      "uid" : "b21f6b76bf19daae",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653335893213,
+        "stop" : 1653335907523,
+        "duration" : 14310
+      }
+    }, {
+      "uid" : "ac93cde7a152b37",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//*[@class=\"android.widget.Button\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653335822028,
+        "stop" : 1653335835982,
+        "duration" : 13954
+      }
+    }, {
+      "uid" : "e700e0828ae45fa8",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.widget.FrameLayout[@content-desc=\"Search\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653332241523,
+        "stop" : 1653332252347,
+        "duration" : 10824
+      }
+    }, {
+      "uid" : "2d648c75e9480d8b",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.widget.TextView[@content-desc=\"Chrome\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653330766888,
+        "stop" : 1653330777600,
+        "duration" : 10712
+      }
+    }, {
+      "uid" : "4696f4e585d0c6da",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.widget.FrameLayout[@content-desc=\"Search\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653330646104,
+        "stop" : 1653330656837,
+        "duration" : 10733
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1e3740b858c03545.json",
+  "parameterValues" : [ "Nexus 4 API 30 11.0-11" ]
+}

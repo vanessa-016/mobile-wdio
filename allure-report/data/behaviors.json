@@ -1,0 +1,685 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Given I am on the ebay page",
+    "uid" : "3f31a9777024faa6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1652985028995,
+      "stop" : 1652985028997,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 3,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "When he client search for 'pilas'",
+    "uid" : "3ff360b56d549075",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1652986514756,
+      "stop" : 1652986514756,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "When I login with tomsmith and SuperSecretPassword!",
+    "uid" : "5290a7dd6a021b0c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653059743512,
+      "stop" : 1653059743512,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "Then I should see a flash message saying You logged into a secure area!",
+    "uid" : "2a78a449d8d47fb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653059743513,
+      "stop" : 1653059743513,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "Given I am on the login page",
+    "uid" : "e9056d9c3dd0209a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653059743525,
+      "stop" : 1653059743547,
+      "duration" : 22
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 23,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "Then I should see a flash message saying Your username is invalid!",
+    "uid" : "f903025b60820b43",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653059743547,
+      "stop" : 1653059743547,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "When I login with foobar and barfoo",
+    "uid" : "ef4ef39c4417bc10",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653059743547,
+      "stop" : 1653059743547,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "",
+    "uid" : "77bbe2c8210286ce",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653059743548,
+      "stop" : 1653059743549,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 55,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "Given The client is in the www.ebay.com",
+    "uid" : "135cf263cc65a5d5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653068960828,
+      "stop" : 1653068960831,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "When The client search for the 'pilas'",
+    "uid" : "afce8b78faa57664",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653068960831,
+      "stop" : 1653068960831,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 11,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "Then The client count the results",
+    "uid" : "16573227eeae4c08",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653068960832,
+      "stop" : 1653068960833,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 13,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "",
+    "uid" : "bdd5d79cb51c0a0b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653068960833,
+      "stop" : 1653068960833,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 27,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 4a API 30 11.0-11" ]
+  }, {
+    "name" : "Then I should see a flash message saying You logged into a secure area!",
+    "uid" : "c50d5564f6eda69e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653166516781,
+      "stop" : 1653166516781,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "When I login with tomsmith and SuperSecretPassword!",
+    "uid" : "72e9d172247c3550",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653166516781,
+      "stop" : 1653166516781,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Given I am on the login page",
+    "uid" : "943622c3b9c070f7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653166516795,
+      "stop" : 1653166517106,
+      "duration" : 311
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 11,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Then I should see a flash message saying Your username is invalid!",
+    "uid" : "86da0308936bd072",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653166517107,
+      "stop" : 1653166517107,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "When I login with foobar and barfoo",
+    "uid" : "ca61b2bba4ea1e51",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653166517107,
+      "stop" : 1653166517107,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "",
+    "uid" : "6895a61b2aacf5df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653166517107,
+      "stop" : 1653166517108,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 23,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Given The client is in the",
+    "uid" : "1d0926434a4cc526",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653177379271,
+      "stop" : 1653177379280,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Given The client is in the www.ebay.com",
+    "uid" : "ec4432c8a465897e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653199215260,
+      "stop" : 1653199218055,
+      "duration" : 2795
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 34,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "When The client search for the 'pilas'",
+    "uid" : "c8d48875e8088116",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653243655311,
+      "stop" : 1653243655311,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 42,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Given The client is in the https://www.eBay.com",
+    "uid" : "23a1d47568589b44",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653301363167,
+      "stop" : 1653301366815,
+      "duration" : 3648
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 7,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Given The client is in the eBay",
+    "uid" : "36fc413d7974f464",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653328299871,
+      "stop" : 1653328313683,
+      "duration" : 13812
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 84,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "When The client search for the pilas",
+    "uid" : "9f504b773adef75",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653328313683,
+      "stop" : 1653328313684,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 85,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Then The client count the results",
+    "uid" : "b6f7c323ed63dcb0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653328313684,
+      "stop" : 1653328313685,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 128,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "",
+    "uid" : "39786dfcf5477709",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653328313685,
+      "stop" : 1653328313686,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 257,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Pixel 5 API 32 12.0-12" ]
+  }, {
+    "name" : "Given The client is in the eBay",
+    "uid" : "1e3740b858c03545",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653388955113,
+      "stop" : 1653388959394,
+      "duration" : 4281
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 51,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "Given The client is in the https://www.ebay.com/",
+    "uid" : "68eefbec03b5efa9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653492279720,
+      "stop" : 1653492287990,
+      "duration" : 8270
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 17,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "Given The client is in the https://www.ebay.com",
+    "uid" : "3cb367b6f3a1ec6f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653502725932,
+      "stop" : 1653502740988,
+      "duration" : 15056
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 41,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "When The client search for the pilas",
+    "uid" : "21d5425b01163e67",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653502740989,
+      "stop" : 1653502740989,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 111,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "Then The client count the results",
+    "uid" : "131bd22f9d2b3df7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653502740989,
+      "stop" : 1653502740990,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 111,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "",
+    "uid" : "336261f8c796ed1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653502740990,
+      "stop" : 1653502740990,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 223,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "Given The client is in the https://www.ebay.com",
+    "uid" : "d099c08201112527",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1653526757060,
+      "stop" : 1653526772971,
+      "duration" : 15911
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "When The client search for the pilas",
+    "uid" : "65076f2c46a5a4df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653526772971,
+      "stop" : 1653526772971,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "Then The client count the results",
+    "uid" : "a5fb8353159037b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1653526772971,
+      "stop" : 1653526772972,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "",
+    "uid" : "2a5c9199a0c118a3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653526772973,
+      "stop" : 1653526772973,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 17,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Nexus 4 API 30 11.0-11" ]
+  }, {
+    "name" : "Given The client is in the https://www.ebay.com",
+    "uid" : "3692e55f08f6ae71",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653528830724,
+      "stop" : 1653528842823,
+      "duration" : 12099
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 10,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 5 API 30 11.0-11" ]
+  }, {
+    "name" : "When The client search for the pilas",
+    "uid" : "8a47150484f3286f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653528842823,
+      "stop" : 1653528850282,
+      "duration" : 7459
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 10,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 5 API 30 11.0-11" ]
+  }, {
+    "name" : "Then The client count the results",
+    "uid" : "5bf11a6646e7a814",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653528850282,
+      "stop" : 1653528850287,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 10,
+    "retriesStatusChange" : true,
+    "parameters" : [ "Nexus 5 API 30 11.0-11" ]
+  }, {
+    "name" : "",
+    "uid" : "af206ccea91995a8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1653528850287,
+      "stop" : 1653528850288,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 21,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Nexus 5 API 30 11.0-11" ]
+  } ]
+}

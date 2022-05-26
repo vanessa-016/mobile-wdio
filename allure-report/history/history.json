@@ -1,0 +1,773 @@
+{
+  "dc82a3a67d3d7fe48616765bb3883ac0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af206ccea91995a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653528850287,
+        "stop" : 1653528850288,
+        "duration" : 1
+      }
+    } ]
+  },
+  "fc0274b1e1ce47a02aba467259431663" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f903025b60820b43",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653059743547,
+        "stop" : 1653059743547,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3d0b03da652eed9598a69f708d4b3397" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d099c08201112527",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653526757060,
+        "stop" : 1653526772971,
+        "duration" : 15911
+      }
+    } ]
+  },
+  "4b4d2e00fa0c0ce37176a5c601062e0f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16573227eeae4c08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653068960832,
+        "stop" : 1653068960833,
+        "duration" : 1
+      }
+    } ]
+  },
+  "22fcd3693416c10fc8ab445acd411835" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5290a7dd6a021b0c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653059743512,
+        "stop" : 1653059743512,
+        "duration" : 0
+      }
+    } ]
+  },
+  "19868eee4faff0b47fcd731dbfbe0b87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "afce8b78faa57664",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653068960831,
+        "stop" : 1653068960831,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6bd16023eb4cc060831fe18c6bd2c238" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca61b2bba4ea1e51",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653166517107,
+        "stop" : 1653166517107,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f695d4d50061e22fdffda5180a38d86d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6895a61b2aacf5df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653166517107,
+        "stop" : 1653166517108,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1d1a365babd7400ca20891c58e4ac7b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3cb367b6f3a1ec6f",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653502725932,
+        "stop" : 1653502740988,
+        "duration" : 15056
+      }
+    } ]
+  },
+  "2ad31456290c8de6e7c9987401d5bc77" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21d5425b01163e67",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653502740989,
+        "stop" : 1653502740989,
+        "duration" : 0
+      }
+    } ]
+  },
+  "548bcfef74116c18d552eebb831d942f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6f7c323ed63dcb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653328313684,
+        "stop" : 1653328313685,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f4c5afbc7d38b51ca78277ca9e50b2d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a47150484f3286f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653528842823,
+        "stop" : 1653528850282,
+        "duration" : 7459
+      }
+    } ]
+  },
+  "dc540d81ca6c907cb0a360cf8de5c315" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39786dfcf5477709",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653328313685,
+        "stop" : 1653328313686,
+        "duration" : 1
+      }
+    } ]
+  },
+  "fa6193b85f637d407bb3b44f5463c75a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "943622c3b9c070f7",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: Error attempting to start URI. Original error: Error: Starting: Intent { act=android.intent.action.VIEW dat=https://www.ebay.com/... pkg=com.wdiodemoapp }\n",
+      "time" : {
+        "start" : 1653166516795,
+        "stop" : 1653166517106,
+        "duration" : 311
+      }
+    } ]
+  },
+  "6d617c77785a07494a074ecba383f99c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23a1d47568589b44",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.searchButton.tap is not a function",
+      "time" : {
+        "start" : 1653301363167,
+        "stop" : 1653301366815,
+        "duration" : 3648
+      }
+    } ]
+  },
+  "4139d7fdbdc5d3787e79f783a3c21ae1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef4ef39c4417bc10",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653059743547,
+        "stop" : 1653059743547,
+        "duration" : 0
+      }
+    } ]
+  },
+  "21c9e5aa62cd678da9e0c2a4fe1326ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f504b773adef75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653328313683,
+        "stop" : 1653328313684,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a679393dc7f59b93c6a5ed3635296e70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c50d5564f6eda69e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653166516781,
+        "stop" : 1653166516781,
+        "duration" : 0
+      }
+    } ]
+  },
+  "41195e88d6a50e08b051d7ecf2c8ae7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec4432c8a465897e",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1653199215260,
+        "stop" : 1653199218055,
+        "duration" : 2795
+      }
+    } ]
+  },
+  "f87dd8a6e70b752d09ac765b94bb9cff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bdd5d79cb51c0a0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653068960833,
+        "stop" : 1653068960833,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2bea46428c20c135fe57b1fd830b06ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3692e55f08f6ae71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653528830724,
+        "stop" : 1653528842823,
+        "duration" : 12099
+      }
+    } ]
+  },
+  "baa168991e60b0887b036d5a8b848bae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68eefbec03b5efa9",
+      "status" : "broken",
+      "statusDetails" : "TypeError: browser_1.default.swipeUp is not a function",
+      "time" : {
+        "start" : 1653492279720,
+        "stop" : 1653492287990,
+        "duration" : 8270
+      }
+    } ]
+  },
+  "b7cceaadcfa65b1f6fab7c99cd32f738" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d0926434a4cc526",
+      "status" : "broken",
+      "statusDetails" : "Error: function uses multiple asynchronous interfaces: callback and promise",
+      "time" : {
+        "start" : 1653177379271,
+        "stop" : 1653177379280,
+        "duration" : 9
+      }
+    } ]
+  },
+  "bc4c2f005b788544ab855b1a1f29725c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "131bd22f9d2b3df7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653502740989,
+        "stop" : 1653502740990,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a12af0ac1ea35874f51504a9c2269d23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "135cf263cc65a5d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653068960828,
+        "stop" : 1653068960831,
+        "duration" : 3
+      }
+    } ]
+  },
+  "9fd37f845b832cdac080e5b51f33dba0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72e9d172247c3550",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653166516781,
+        "stop" : 1653166516781,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c2d93938b1763e2f36a29046d12c9099" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f31a9777024faa6",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'open')",
+      "time" : {
+        "start" : 1652985028995,
+        "stop" : 1652985028997,
+        "duration" : 2
+      }
+    } ]
+  },
+  "4426d79adcebab4394e42882d6d18a1a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ff360b56d549075",
+      "status" : "broken",
+      "statusDetails" : "Step \"he client search for 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1652986514756,
+        "stop" : 1652986514756,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d0c33892f47bc3604095351c03dc541e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a5c9199a0c118a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653526772973,
+        "stop" : 1653526772973,
+        "duration" : 0
+      }
+    } ]
+  },
+  "454697e2c2327a15d991d6c4d44f8cc6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5bf11a6646e7a814",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653528850282,
+        "stop" : 1653528850287,
+        "duration" : 5
+      }
+    } ]
+  },
+  "d440ccb1ae0e53b481c094012da05605" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65076f2c46a5a4df",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653526772971,
+        "stop" : 1653526772971,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d09c6fbdeaebf299349d17fb3a8ccd24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8d48875e8088116",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653243655311,
+        "stop" : 1653243655311,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3a46905b09294c0bc817765f8649d57c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e3740b858c03545",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'swipeUp')",
+      "time" : {
+        "start" : 1653388955113,
+        "stop" : 1653388959394,
+        "duration" : 4281
+      }
+    } ]
+  },
+  "32b9ec33d5f4fd1d72520028664fcb49" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86da0308936bd072",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653166517107,
+        "stop" : 1653166517107,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fc0645f41b0a4143c5b25d6aca134ae0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e9056d9c3dd0209a",
+      "status" : "broken",
+      "statusDetails" : "unknown error: An unknown server-side error occurred while processing the command. Original error: URI and package arguments are required",
+      "time" : {
+        "start" : 1653059743525,
+        "stop" : 1653059743547,
+        "duration" : 22
+      }
+    } ]
+  },
+  "a23abd26d638c7d64c842652a00708c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "36fc413d7974f464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653328299871,
+        "stop" : 1653328313683,
+        "duration" : 13812
+      }
+    } ]
+  },
+  "74a017e78d0e4c0a32b0c6bcbd4e5d9a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "336261f8c796ed1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653502740990,
+        "stop" : 1653502740990,
+        "duration" : 0
+      }
+    } ]
+  },
+  "86d0a47951e6a45715dbe8047d6fb802" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5fb8353159037b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653526772971,
+        "stop" : 1653526772972,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5645820acd707f2d6eff2ce8543e399b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a78a449d8d47fb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653059743513,
+        "stop" : 1653059743513,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7322bacf6b77899f9433d087e1582a46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77bbe2c8210286ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653059743548,
+        "stop" : 1653059743549,
+        "duration" : 1
+      }
+    } ]
+  }
+}

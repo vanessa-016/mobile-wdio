@@ -1,0 +1,102 @@
+{
+  "uid" : "72e9d172247c3550",
+  "name" : "When I login with tomsmith and SuperSecretPassword!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with tomsmith and SuperSecretPassword!",
+  "historyId" : "9fd37f845b832cdac080e5b51f33dba0",
+  "time" : {
+    "start" : 1653166516781,
+    "stop" : 1653166516781,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with tomsmith and SuperSecretPassword!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 5 API 32 12.0-12"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "47a110b7192a2296",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653161487589,
+        "stop" : 1653161487589,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "43033da7e52ebfa4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653110125073,
+        "stop" : 1653110125073,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3e4ae501514c0f17",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653110011665,
+        "stop" : 1653110011666,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "adadd3dab93fe9b8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653109608896,
+        "stop" : 1653109608896,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9f8a14ae8583c785",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653108968038,
+        "stop" : 1653108968039,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72e9d172247c3550.json",
+  "parameterValues" : [ "Pixel 5 API 32 12.0-12" ]
+}

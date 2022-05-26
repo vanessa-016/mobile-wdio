@@ -1,0 +1,62 @@
+{
+  "uid" : "96836c58939d18e2",
+  "name" : "When The client search for the 'pilas'",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.When The client search for the 'pilas'",
+  "historyId" : "19868eee4faff0b47fcd731dbfbe0b87",
+  "time" : {
+    "start" : 1652990878816,
+    "stop" : 1652990878817,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+  "statusTrace" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.\n                \tat Feature(C:\\project-mobile\\features\\search.feature):1:1\n                \tat Scenario(The client search by \"pilas\" in ebay page):3:3\n                \tat Step(The client search for the <word>):6:5\n                ",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When The client search for the 'pilas'"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96836c58939d18e2.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}

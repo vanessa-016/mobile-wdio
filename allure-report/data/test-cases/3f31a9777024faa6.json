@@ -1,0 +1,95 @@
+{
+  "uid" : "3f31a9777024faa6",
+  "name" : "Given I am on the ebay page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Given I am on the ebay page",
+  "historyId" : "c2d93938b1763e2f36a29046d12c9099",
+  "time" : {
+    "start" : 1652985028995,
+    "stop" : 1652985028997,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: Cannot read properties of undefined (reading 'open')",
+  "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'open')\n                    at World.<anonymous> (C:\\project-mobile\\features\\step-definitions\\steps.ts:11:23)\n                    at World.executeAsync (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at World.testFrameworkFnWrapper (C:\\project-mobile\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async wrapPromiseWithTimeout (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\time.ts:56:10)\n                    at async Object.run (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\user_code_runner.ts:86:16)\n                    at async Object.run (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\step_runner.ts:50:20)\n                    at async TestCaseRunner.invokeStep (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:130:12)\n                    at async TestCaseRunner.runStep (C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:307:20)\n                    at async C:\\project-mobile\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:210:36",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the ebay page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9ef7cbe239f8b838",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'open')",
+      "time" : {
+        "start" : 1652985028973,
+        "stop" : 1652985028983,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "10486e997aae586d",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'open')",
+      "time" : {
+        "start" : 1652984620063,
+        "stop" : 1652984620065,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "889a3aa0e5369d37",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'open')",
+      "time" : {
+        "start" : 1652984620042,
+        "stop" : 1652984620052,
+        "duration" : 10
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3f31a9777024faa6.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}

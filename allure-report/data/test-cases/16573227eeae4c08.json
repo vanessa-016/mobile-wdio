@@ -1,0 +1,177 @@
+{
+  "uid" : "16573227eeae4c08",
+  "name" : "Then The client count the results",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.Then The client count the results",
+  "historyId" : "4b4d2e00fa0c0ce37176a5c601062e0f",
+  "time" : {
+    "start" : 1653068960832,
+    "stop" : 1653068960833,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then The client count the results"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "99412d2671d65822",
+      "status" : "broken",
+      "statusDetails" : "Error: function uses multiple asynchronous interfaces: callback and promise",
+      "time" : {
+        "start" : 1653060099683,
+        "stop" : 1653060099688,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "defb3b39c526433a",
+      "status" : "broken",
+      "statusDetails" : "Error: function uses multiple asynchronous interfaces: callback and promise",
+      "time" : {
+        "start" : 1653060052675,
+        "stop" : 1653060052683,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "b9fc4f6c14f739f1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653059814758,
+        "stop" : 1653059814758,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "60697db456e987df",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653058362707,
+        "stop" : 1653058362708,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1a37d219441a87b7",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653056111795,
+        "stop" : 1653056111795,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "34fb57b8bd4ecd23",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653054658893,
+        "stop" : 1653054658893,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6327c500878931a9",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653053959045,
+        "stop" : 1653053959046,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c94edb3c71e0cdb9",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653053591924,
+        "stop" : 1653053591925,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8b3bcb45c16677ae",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653044639188,
+        "stop" : 1653044639189,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cd40bad33241080",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1652991636443,
+        "stop" : 1652991636443,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "95db1d616a514065",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1652990878817,
+        "stop" : 1652990878818,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4f42152fabbcd930",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1652986514756,
+        "stop" : 1652986514757,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3e7b1883998c9e12",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client count the results\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1652986075257,
+        "stop" : 1652986075258,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16573227eeae4c08.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}

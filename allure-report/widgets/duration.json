@@ -1,0 +1,401 @@
+[ {
+  "uid" : "e9056d9c3dd0209a",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1653059743525,
+    "stop" : 1653059743547,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1d0926434a4cc526",
+  "name" : "Given The client is in the",
+  "time" : {
+    "start" : 1653177379271,
+    "stop" : 1653177379280,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3ff360b56d549075",
+  "name" : "When he client search for 'pilas'",
+  "time" : {
+    "start" : 1652986514756,
+    "stop" : 1652986514756,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d099c08201112527",
+  "name" : "Given The client is in the https://www.ebay.com",
+  "time" : {
+    "start" : 1653526757060,
+    "stop" : 1653526772971,
+    "duration" : 15911
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c50d5564f6eda69e",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "time" : {
+    "start" : 1653166516781,
+    "stop" : 1653166516781,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5290a7dd6a021b0c",
+  "name" : "When I login with tomsmith and SuperSecretPassword!",
+  "time" : {
+    "start" : 1653059743512,
+    "stop" : 1653059743512,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "21d5425b01163e67",
+  "name" : "When The client search for the pilas",
+  "time" : {
+    "start" : 1653502740989,
+    "stop" : 1653502740989,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "bdd5d79cb51c0a0b",
+  "name" : "",
+  "time" : {
+    "start" : 1653068960833,
+    "stop" : 1653068960833,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bf11a6646e7a814",
+  "name" : "Then The client count the results",
+  "time" : {
+    "start" : 1653528850282,
+    "stop" : 1653528850287,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f504b773adef75",
+  "name" : "When The client search for the pilas",
+  "time" : {
+    "start" : 1653328313683,
+    "stop" : 1653328313684,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39786dfcf5477709",
+  "name" : "",
+  "time" : {
+    "start" : 1653328313685,
+    "stop" : 1653328313686,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77bbe2c8210286ce",
+  "name" : "",
+  "time" : {
+    "start" : 1653059743548,
+    "stop" : 1653059743549,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f903025b60820b43",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "time" : {
+    "start" : 1653059743547,
+    "stop" : 1653059743547,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "afce8b78faa57664",
+  "name" : "When The client search for the 'pilas'",
+  "time" : {
+    "start" : 1653068960831,
+    "stop" : 1653068960831,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "131bd22f9d2b3df7",
+  "name" : "Then The client count the results",
+  "time" : {
+    "start" : 1653502740989,
+    "stop" : 1653502740990,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "16573227eeae4c08",
+  "name" : "Then The client count the results",
+  "time" : {
+    "start" : 1653068960832,
+    "stop" : 1653068960833,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65076f2c46a5a4df",
+  "name" : "When The client search for the pilas",
+  "time" : {
+    "start" : 1653526772971,
+    "stop" : 1653526772971,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "86da0308936bd072",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "time" : {
+    "start" : 1653166517107,
+    "stop" : 1653166517107,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "68eefbec03b5efa9",
+  "name" : "Given The client is in the https://www.ebay.com/",
+  "time" : {
+    "start" : 1653492279720,
+    "stop" : 1653492287990,
+    "duration" : 8270
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2a5c9199a0c118a3",
+  "name" : "",
+  "time" : {
+    "start" : 1653526772973,
+    "stop" : 1653526772973,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72e9d172247c3550",
+  "name" : "When I login with tomsmith and SuperSecretPassword!",
+  "time" : {
+    "start" : 1653166516781,
+    "stop" : 1653166516781,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "23a1d47568589b44",
+  "name" : "Given The client is in the https://www.eBay.com",
+  "time" : {
+    "start" : 1653301363167,
+    "stop" : 1653301366815,
+    "duration" : 3648
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b6f7c323ed63dcb0",
+  "name" : "Then The client count the results",
+  "time" : {
+    "start" : 1653328313684,
+    "stop" : 1653328313685,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "336261f8c796ed1",
+  "name" : "",
+  "time" : {
+    "start" : 1653502740990,
+    "stop" : 1653502740990,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5fb8353159037b",
+  "name" : "Then The client count the results",
+  "time" : {
+    "start" : 1653526772971,
+    "stop" : 1653526772972,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8a47150484f3286f",
+  "name" : "When The client search for the pilas",
+  "time" : {
+    "start" : 1653528842823,
+    "stop" : 1653528850282,
+    "duration" : 7459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "943622c3b9c070f7",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1653166516795,
+    "stop" : 1653166517106,
+    "duration" : 311
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "135cf263cc65a5d5",
+  "name" : "Given The client is in the www.ebay.com",
+  "time" : {
+    "start" : 1653068960828,
+    "stop" : 1653068960831,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8d48875e8088116",
+  "name" : "When The client search for the 'pilas'",
+  "time" : {
+    "start" : 1653243655311,
+    "stop" : 1653243655311,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3f31a9777024faa6",
+  "name" : "Given I am on the ebay page",
+  "time" : {
+    "start" : 1652985028995,
+    "stop" : 1652985028997,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef4ef39c4417bc10",
+  "name" : "When I login with foobar and barfoo",
+  "time" : {
+    "start" : 1653059743547,
+    "stop" : 1653059743547,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3692e55f08f6ae71",
+  "name" : "Given The client is in the https://www.ebay.com",
+  "time" : {
+    "start" : 1653528830724,
+    "stop" : 1653528842823,
+    "duration" : 12099
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec4432c8a465897e",
+  "name" : "Given The client is in the www.ebay.com",
+  "time" : {
+    "start" : 1653199215260,
+    "stop" : 1653199218055,
+    "duration" : 2795
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "36fc413d7974f464",
+  "name" : "Given The client is in the eBay",
+  "time" : {
+    "start" : 1653328299871,
+    "stop" : 1653328313683,
+    "duration" : 13812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af206ccea91995a8",
+  "name" : "",
+  "time" : {
+    "start" : 1653528850287,
+    "stop" : 1653528850288,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e3740b858c03545",
+  "name" : "Given The client is in the eBay",
+  "time" : {
+    "start" : 1653388955113,
+    "stop" : 1653388959394,
+    "duration" : 4281
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ca61b2bba4ea1e51",
+  "name" : "When I login with foobar and barfoo",
+  "time" : {
+    "start" : 1653166517107,
+    "stop" : 1653166517107,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3cb367b6f3a1ec6f",
+  "name" : "Given The client is in the https://www.ebay.com",
+  "time" : {
+    "start" : 1653502725932,
+    "stop" : 1653502740988,
+    "duration" : 15056
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6895a61b2aacf5df",
+  "name" : "",
+  "time" : {
+    "start" : 1653166517107,
+    "stop" : 1653166517108,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a78a449d8d47fb",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "time" : {
+    "start" : 1653059743513,
+    "stop" : 1653059743513,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

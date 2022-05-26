@@ -1,0 +1,278 @@
+{
+  "uid" : "bdd5d79cb51c0a0b",
+  "name" : "",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.",
+  "historyId" : "f87dd8a6e70b752d09ac765b94bb9cff",
+  "time" : {
+    "start" : 1653068960833,
+    "stop" : 1653068960833,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 27,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "670bb6d8fc0e2716",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653068960827,
+        "stop" : 1653068960828,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "75ca3418a9aa957a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653060099688,
+        "stop" : 1653060099691,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c90f52a251e0d972",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653060099678,
+        "stop" : 1653060099679,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e18d8202631cc5e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653060052683,
+        "stop" : 1653060052684,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f7a5bb70f722fa1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653060052670,
+        "stop" : 1653060052671,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8b14505b3c13125e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653059814758,
+        "stop" : 1653059814758,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aa7acc11dc6faebc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653059814753,
+        "stop" : 1653059814754,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fe4f81675bee948e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653058362708,
+        "stop" : 1653058362708,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d5670979e6d9b89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653058362703,
+        "stop" : 1653058362705,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "faddae043cd29250",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653056111795,
+        "stop" : 1653056111797,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9ac962014dcd6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653056111791,
+        "stop" : 1653056111792,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f7da1146c42de8bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653054658894,
+        "stop" : 1653054658895,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "46404da88447fc69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653054658890,
+        "stop" : 1653054658891,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8301310e9a7492e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653053959046,
+        "stop" : 1653053959047,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f72b18eb6a9833ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653053959041,
+        "stop" : 1653053959043,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "35850fa9fe0277a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653053591925,
+        "stop" : 1653053591926,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "17c67dc64a3e6568",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653053591920,
+        "stop" : 1653053591922,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "e571bae1e5328e4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653044639189,
+        "stop" : 1653044639189,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cfa491a0b54d8aef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653044639185,
+        "stop" : 1653044639187,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ba1f501b28cda8e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652991636443,
+        "stop" : 1652991636444,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a07aa03590aa3ab8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652991636439,
+        "stop" : 1652991636441,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2a1cb1dc8d3db799",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652990878818,
+        "stop" : 1652990878820,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ce56fc9687eb8f87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652990878813,
+        "stop" : 1652990878815,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "dd63e8ba5b2b2bc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652986514757,
+        "stop" : 1652986514757,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "210799c46540ce69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652986514753,
+        "stop" : 1652986514755,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "93f5e43d7d9a4225",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652986075258,
+        "stop" : 1652986075258,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "80660fef2bd3a10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652986075254,
+        "stop" : 1652986075256,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdd5d79cb51c0a0b.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@resource-id=\"com.android.quicksearchbox:id/search_src_text\"]"
+}

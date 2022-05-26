@@ -1,0 +1,512 @@
+{
+  "uid" : "3692e55f08f6ae71",
+  "name" : "Given The client is in the https://www.ebay.com",
+  "fullName" : "The client search in the view page: The client search by \"pilas\" in ebay page.Given The client is in the https://www.ebay.com",
+  "historyId" : "2bea46428c20c135fe57b1fd830b06ee",
+  "time" : {
+    "start" : 1653528830724,
+    "stop" : 1653528842823,
+    "duration" : 12099
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653528830728,
+        "stop" : 1653528831415,
+        "duration" : 687
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cd0bd6c46f384f2",
+        "name" : "Request",
+        "source" : "cd0bd6c46f384f2.json",
+        "type" : "application/json",
+        "size" : 107
+      }, {
+        "uid" : "14bb3e18540820c8",
+        "name" : "Response",
+        "source" : "14bb3e18540820c8.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-007f-ffff-ffff0000006b/click",
+      "time" : {
+        "start" : 1653528831424,
+        "stop" : 1653528832364,
+        "duration" : 940
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653528832365,
+        "stop" : 1653528832841,
+        "duration" : 476
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "464de6595efc8daf",
+        "name" : "Request",
+        "source" : "464de6595efc8daf.json",
+        "type" : "application/json",
+        "size" : 104
+      }, {
+        "uid" : "1bd1bb357badbf1a",
+        "name" : "Response",
+        "source" : "1bd1bb357badbf1a.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0086-ffff-ffff00000006/clear",
+      "time" : {
+        "start" : 1653528832851,
+        "stop" : 1653528834050,
+        "duration" : 1199
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0086-ffff-ffff00000006/value",
+      "time" : {
+        "start" : 1653528834056,
+        "stop" : 1653528834729,
+        "duration" : 673
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3bc6c29f1e9771ab",
+        "name" : "Request",
+        "source" : "3bc6c29f1e9771ab.json",
+        "type" : "application/json",
+        "size" : 36
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653528834729,
+        "stop" : 1653528835661,
+        "duration" : 932
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f0d983fcb7853440",
+        "name" : "Request",
+        "source" : "f0d983fcb7853440.json",
+        "type" : "application/json",
+        "size" : 214
+      }, {
+        "uid" : "f87fab741140461f",
+        "name" : "Response",
+        "source" : "f87fab741140461f.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0086-ffff-ffff00000007/click",
+      "time" : {
+        "start" : 1653528835664,
+        "stop" : 1653528835823,
+        "duration" : 159
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653528835824,
+        "stop" : 1653528836126,
+        "duration" : 302
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ff50cb18a0f5f9c1",
+        "name" : "Request",
+        "source" : "ff50cb18a0f5f9c1.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "cd2277e6ace62ed8",
+        "name" : "Response",
+        "source" : "cd2277e6ace62ed8.json",
+        "type" : "application/json",
+        "size" : 820
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653528836132,
+        "stop" : 1653528836519,
+        "duration" : 387
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "232ff5c1a4c90e0b",
+        "name" : "Request",
+        "source" : "232ff5c1a4c90e0b.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "c9ad527fe01fa312",
+        "name" : "Response",
+        "source" : "c9ad527fe01fa312.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653528836645,
+        "stop" : 1653528836791,
+        "duration" : 146
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9d8108c90574819d",
+        "name" : "Request",
+        "source" : "9d8108c90574819d.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "9075b528ecff7bba",
+        "name" : "Response",
+        "source" : "9075b528ecff7bba.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653528837146,
+        "stop" : 1653528838135,
+        "duration" : 989
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7f9a4f577f211da5",
+        "name" : "Request",
+        "source" : "7f9a4f577f211da5.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "1b3d7705ffe3c244",
+        "name" : "Response",
+        "source" : "1b3d7705ffe3c244.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653528838152,
+        "stop" : 1653528838608,
+        "duration" : 456
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8d43e2a7c538053a",
+        "name" : "Request",
+        "source" : "8d43e2a7c538053a.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "f7922f10d3f49af0",
+        "name" : "Response",
+        "source" : "f7922f10d3f49af0.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1653528838623,
+        "stop" : 1653528840816,
+        "duration" : 2193
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5f166a93014e48f9",
+        "name" : "Request",
+        "source" : "5f166a93014e48f9.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "2fc95d5884043037",
+        "name" : "Response",
+        "source" : "2fc95d5884043037.json",
+        "type" : "application/json",
+        "size" : 148
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653528840819,
+        "stop" : 1653528842436,
+        "duration" : 1617
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7332dd5d54119ef1",
+        "name" : "Request",
+        "source" : "7332dd5d54119ef1.json",
+        "type" : "application/json",
+        "size" : 96
+      }, {
+        "uid" : "bb56dbd7eca69b03",
+        "name" : "Response",
+        "source" : "bb56dbd7eca69b03.json",
+        "type" : "application/json",
+        "size" : 136
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/00000000-0000-0088-0000-00c70000000a/click",
+      "time" : {
+        "start" : 1653528842439,
+        "stop" : 1653528842822,
+        "duration" : 383
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 21,
+    "stepsCount" : 15,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given The client is in the https://www.ebay.com"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 5 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4a53b859d2cb8879",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//*[@resource-id=\"com.android.quicksearchbox:id/search_widget_text\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653528734322,
+        "stop" : 1653528745054,
+        "duration" : 10732
+      }
+    }, {
+      "uid" : "a58f743f4a4df0ae",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653527795040,
+        "stop" : 1653527809851,
+        "duration" : 14811
+      }
+    }, {
+      "uid" : "81552ef468aa71f4",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653527626340,
+        "stop" : 1653527641008,
+        "duration" : 14668
+      }
+    }, {
+      "uid" : "db4848b37e66659d",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653527458802,
+        "stop" : 1653527473804,
+        "duration" : 15002
+      }
+    }, {
+      "uid" : "1ad494994b889def",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653527304599,
+        "stop" : 1653527319467,
+        "duration" : 14868
+      }
+    }, {
+      "uid" : "ce39a155043ca871",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653527254870,
+        "stop" : 1653527270044,
+        "duration" : 15174
+      }
+    }, {
+      "uid" : "455c874b2261e3d8",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653527176948,
+        "stop" : 1653527191966,
+        "duration" : 15018
+      }
+    }, {
+      "uid" : "8968025f66d095f7",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653527078104,
+        "stop" : 1653527093265,
+        "duration" : 15161
+      }
+    }, {
+      "uid" : "efe7c2c977e1796e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653526971935,
+        "stop" : 1653526980643,
+        "duration" : 8708
+      }
+    }, {
+      "uid" : "499684c06301a948",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"//android.view.View[@content-desc=\"https://www.ebay.com\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653526873203,
+        "stop" : 1653526888039,
+        "duration" : 14836
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3692e55f08f6ae71.json",
+  "parameterValues" : [ "Nexus 5 API 30 11.0-11" ]
+}

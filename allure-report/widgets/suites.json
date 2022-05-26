@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "7cd1054553c68a11e331854efddf4c18",
+    "name" : "The client search in the ebay page: The client search by \"pilas\" in ebay page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 7,
+      "skipped" : 3,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 19
+    }
+  }, {
+    "uid" : "fdbdc9ea7ee956858561e08f47b3a285",
+    "name" : "The Internet Guinea Pig Website: As a user, I can log into the secure area",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 8,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "60a56e7cd0edbd29d11701f717634de0",
+    "name" : "The client search in the view page: The client search by \"pilas\" in ebay page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 2,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

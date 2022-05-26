@@ -1,0 +1,126 @@
+{
+  "uid" : "65076f2c46a5a4df",
+  "name" : "When The client search for the pilas",
+  "fullName" : "The client search in the view page: The client search by \"pilas\" in ebay page.When The client search for the pilas",
+  "historyId" : "d440ccb1ae0e53b481c094012da05605",
+  "time" : {
+    "start" : 1653526772971,
+    "stop" : 1653526772971,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When The client search for the pilas"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the view page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Nexus 4 API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "30f07116adb647cc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653525344630,
+        "stop" : 1653525344631,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "628735886d30d52",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653524276903,
+        "stop" : 1653524276903,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f6008aef07a20946",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509744932,
+        "stop" : 1653509751427,
+        "duration" : 6495
+      }
+    }, {
+      "uid" : "24a588829ba58f25",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653509278566,
+        "stop" : 1653509278567,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d7e2a05ed5ec224e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653509152434,
+        "stop" : 1653509152434,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "77fca07d9686bea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653507967104,
+        "stop" : 1653507974016,
+        "duration" : 6912
+      }
+    }, {
+      "uid" : "8178d1855c343f2c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653507858875,
+        "stop" : 1653507858875,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "81da910dcbb0d142",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653507701190,
+        "stop" : 1653507701191,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65076f2c46a5a4df.json",
+  "parameterValues" : [ "Nexus 4 API 30 11.0-11" ]
+}

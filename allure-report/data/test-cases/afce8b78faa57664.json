@@ -1,0 +1,157 @@
+{
+  "uid" : "afce8b78faa57664",
+  "name" : "When The client search for the 'pilas'",
+  "fullName" : "The client search in the ebay page: The client search by \"pilas\" in ebay page.When The client search for the 'pilas'",
+  "historyId" : "19868eee4faff0b47fcd731dbfbe0b87",
+  "time" : {
+    "start" : 1653068960831,
+    "stop" : 1653068960831,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 11,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testClass",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When The client search for the 'pilas'"
+  }, {
+    "name" : "package",
+    "value" : "The client search in the ebay page: The client search by \"pilas\" in ebay page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Pixel 4a API 30 11.0-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cb7d4a0b0c08147b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653060099682,
+        "stop" : 1653060099683,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "64ae685db568af1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653060052674,
+        "stop" : 1653060052674,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ce40e221b023df7e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653059814756,
+        "stop" : 1653059814757,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cf5a3a681399d1fa",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653058362706,
+        "stop" : 1653058362706,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d7aca3ae0ef6a03",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653056111794,
+        "stop" : 1653056111794,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "716e4f46ddb66aaa",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653054658892,
+        "stop" : 1653054658892,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5f42fc1c73c6f3ff",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653053959044,
+        "stop" : 1653053959045,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b7b4e3c7a128c382",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653053591923,
+        "stop" : 1653053591924,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "865b410ce1d8f6a7",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1653044639188,
+        "stop" : 1653044639188,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9c37c83de21bceb2",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1652991636442,
+        "stop" : 1652991636443,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "96836c58939d18e2",
+      "status" : "broken",
+      "statusDetails" : "Step \"The client search for the 'pilas'\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1652990878816,
+        "stop" : 1652990878817,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afce8b78faa57664.json",
+  "parameterValues" : [ "Pixel 4a API 30 11.0-11" ]
+}
